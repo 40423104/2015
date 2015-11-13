@@ -1,0 +1,82 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+  <section>
+
+    <h1>第一週報告</h1>
+    <p>學號:40423104</p>
+    <p>姓名:Yan Syuan</p>
+    	
+  </section>
+    
+  <section>
+
+    <h1>不懂很多才會成長</h1>
+    
+  </section>
+    	
+</section>
+	
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+
+    <h1>第一週</h1>
+    <p>內容</p>
+    <ul>
+    <li>第一堂課</li>
+    <li>心得感想</li>
+    </ul>
+    			
+</section>
+	
+<section id="hw-task-one">
+
+    <h1>第一堂課</h1>
+    <p>我上的第一堂課，完全不知道老師在幹嘛，只知道要跟著老師操作，也不知道為什麼要學github和python，老師要我們去看得如何做工程師那篇文章，都是英文所以大部分都看不懂</p>
+  
+</section>
+				
+<section>
+    <h1>心得感想</h1>
+    <p>聽不懂老師說什麼，讓我覺得我的計算機程式可能沒辦法過關</p>
+    <p>但是我知道，不會就要學習去問，所以我相信之後我對這堂課能有所改觀<p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
