@@ -297,9 +297,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151112231403.1"><vh>@clean W8.html</vh>
+<v t="leo.20151112231403.1" a="E"><vh>@clean W8.html</vh>
 <v t="leo.20151112231403.2"><vh>檔案說明</vh></v>
-<v t="leo.20151112231403.3"><vh>html 標註</vh>
+<v t="leo.20151112231403.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151112231403.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151112231403.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151112231403.6" a="E"><vh>div class="slides"</vh>
@@ -316,7 +316,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113171819.1" a="E"><vh>@clean W7.html</vh>
+<v t="leo.20151113171819.1"><vh>@clean W7.html</vh>
 <v t="leo.20151113171819.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113171819.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113171819.4" a="E"><vh>body 標註</vh>
@@ -2079,7 +2079,7 @@ jupyter notebook
 <t tx="leo.20151112231702.1">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;問題與討論&lt;/p&gt;
@@ -2740,7 +2740,7 @@ jupyter notebook
 <t tx="leo.20151113171819.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;協同&lt;/p&gt;
