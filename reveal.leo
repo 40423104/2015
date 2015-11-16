@@ -14,7 +14,7 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -25,8 +25,12 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="amd.20150919114035.1"><vh>@edit simplest.md</vh></v>
 <v t="leo.20151112233718.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151113182440.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151113182442.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo.20151113171828.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151113182017.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151113012153.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151113005706.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151113003814.1"><vh>@edit 2015cphww1.md</vh></v>
@@ -295,7 +299,7 @@
 </v>
 <v t="leo.20151112231403.1"><vh>@clean W8.html</vh>
 <v t="leo.20151112231403.2"><vh>檔案說明</vh></v>
-<v t="leo.20151112231403.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151112231403.3"><vh>html 標註</vh>
 <v t="leo.20151112231403.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151112231403.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151112231403.6" a="E"><vh>div class="slides"</vh>
@@ -305,9 +309,68 @@
 <v t="leo.20151113000709.1"><vh>什麼是IPv6?</vh></v>
 <v t="leo.20151113000951.1"><vh>IPv6和IPv4比較</vh></v>
 <v t="leo.20151112231403.9"><vh>心得感想</vh></v>
+<v t="leo.20151116202754.1"><vh>自評成績</vh></v>
 </v>
 </v>
 <v t="leo.20151112231403.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151113171819.1"><vh>@clean W7.html</vh>
+<v t="leo.20151113171819.2"><vh>檔案說明</vh></v>
+<v t="leo.20151113171819.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151113171819.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151113171819.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151113171819.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151113171819.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151113171819.8"><vh>內容大綱</vh></v>
+<v t="leo.20151113171819.9"><vh>協同倉儲</vh></v>
+<v t="leo.20151116000536.1"><vh>缺點</vh></v>
+<v t="leo.20151113171819.11"><vh>解決方法</vh></v>
+<v t="leo.20151113171819.12"><vh>心得感想</vh></v>
+<v t="leo.20151113181636.1"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20151113171819.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151113182428.1"><vh>@clean W6.html</vh>
+<v t="leo.20151113182428.2"><vh>檔案說明</vh></v>
+<v t="leo.20151113182428.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151113182428.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151113182428.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151113182428.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151113182428.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151113182428.8"><vh>內容大綱</vh></v>
+<v t="leo.20151113182428.9"><vh>補充Python</vh></v>
+<v t="leo.20151116192551.1"><vh>問題與討論</vh></v>
+<v t="leo.20151113182428.12"><vh>心得感想</vh></v>
+<v t="leo.20151113182428.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20151113182428.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151113182002.1"><vh>@clean W5.html</vh>
+<v t="leo.20151113182002.2"><vh>檔案說明</vh></v>
+<v t="leo.20151113182002.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151113182002.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151113182002.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151113182002.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151113182002.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151113182002.8"><vh>內容大綱</vh></v>
+<v t="leo.20151113182002.9"><vh>GitHub使用</vh></v>
+<v t="leo.20151116213351.1"><vh>為什麼使用GitHub?</vh></v>
+<v t="leo.20151113182002.10"><vh>為什麼使用GitHub?1</vh></v>
+<v t="leo.20151113182002.11"><vh>Git基本操作</vh></v>
+<v t="leo.20151116230132.1"><vh>Git基本操作1</vh></v>
+<v t="leo.20151113182002.12"><vh>心得感想</vh></v>
+<v t="leo.20151113182002.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20151113182002.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -319,10 +382,11 @@
 <v t="leo.20151113015646.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151113015646.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151113015646.8"><vh>內容大綱</vh></v>
-<v t="leo.20151113015646.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20151113015646.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20151113015646.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20151113015646.9"><vh>LEO?</vh></v>
+<v t="leo.20151113015646.10"><vh>LEO語言</vh></v>
+<v t="leo.20151113015646.11"><vh>Jupyter</vh></v>
 <v t="leo.20151113015646.12"><vh>心得感想</vh></v>
+<v t="leo.20151113171612.1"><vh>自評成績</vh></v>
 </v>
 </v>
 <v t="leo.20151113015646.13"><vh>script</vh></v>
@@ -338,9 +402,11 @@
 <v t="leo.20151113012225.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151113012225.8"><vh>內容大綱</vh></v>
 <v t="leo.20151113012225.9"><vh>Python</vh></v>
-<v t="leo.20151113012225.10"><vh>為什麼使用python?</vh></v>
+<v t="leo.20151113154922.1"><vh>為什麼使用python?</vh></v>
 <v t="leo.20151113012225.11"><vh>Does anyone</vh></v>
-<v t="leo.20151113012225.12"><vh>心得感想</vh></v>
+<v t="leo.20151113012225.12"><vh>Python語言</vh></v>
+<v t="leo.20151113154938.1"><vh>心得感想</vh></v>
+<v t="leo.20151113160707.1"><vh>自評成績</vh></v>
 </v>
 </v>
 <v t="leo.20151113012225.13"><vh>script</vh></v>
@@ -358,7 +424,9 @@
 <v t="leo.20151113005653.9"><vh>Engineers</vh></v>
 <v t="leo.20151113005653.10"><vh>What Engineers Do</vh></v>
 <v t="leo.20151113005653.11"><vh>演變</vh></v>
+<v t="leo.20151116212234.1"><vh>工程分支</vh></v>
 <v t="leo.20151113005653.12"><vh>心得感想</vh></v>
+<v t="leo.20151113161511.1"><vh>自評成績</vh></v>
 </v>
 </v>
 <v t="leo.20151113005653.13"><vh>script</vh></v>
@@ -477,6 +545,12 @@
 <v t="amd.20150915170743.148"><vh>script</vh></v>
 </v>
 </v>
+</v>
+</v>
+<v t="leo.20151116223746.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151116223746.3"><vh>Recovered node "自評成績" from @clean W8.html</vh>
+<v t="leo.20151116223746.4"><vh>old:自評成績</vh></v>
+<v t="leo.20151116223746.5"><vh>new:自評成績</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1986,7 +2060,7 @@ jupyter notebook
     &lt;h1&gt;心得感想&lt;/h1&gt;
     &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
     &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;成為一個機械設計工程師，我覺得要充滿好奇心，有問題要記得求解，不然真的會很多都不懂&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1995,13 +2069,14 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section id="hw-task-one"&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;問題與討論&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;什麼是IPv4?&lt;/li&gt;
     &lt;li&gt;什麼是IPv6?&lt;/li&gt;
     &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
     			
 &lt;/section&gt;
@@ -2095,7 +2170,7 @@ jupyter notebook
     
   &lt;section&gt;
 
-    &lt;h1&gt;不懂很多才會成長&lt;/h1&gt;
+    &lt;h1&gt;聽不懂老師在說什麼????&lt;/h1&gt;
     
   &lt;/section&gt;
     	
@@ -2107,8 +2182,7 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
 
-    &lt;h1&gt;第一週&lt;/h1&gt;
-    &lt;p&gt;內容&lt;/p&gt;
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;ul&gt;
     &lt;li&gt;第一堂課&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
@@ -2229,13 +2303,15 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section id="hw-task-one"&gt;
 
-    &lt;h1&gt;第二週&lt;/h1&gt;
-    &lt;p&gt;內容&lt;/p&gt;
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;Engineers&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Engineers&lt;/li&gt;
     &lt;li&gt;What Engineers Do&lt;/li&gt;
     &lt;li&gt;現代&lt;/li&gt;
+    &lt;li&gt;工程分支&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
     			
 &lt;/section&gt;
@@ -2256,18 +2332,6 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20151113012225.10">&lt;section&gt;
-
-    &lt;h1&gt;為什麼使用Python?&lt;/h1&gt;
-     &lt;ul&gt;
-    &lt;li&gt;適合初學者學習程式語言&lt;/li&gt;
-    &lt;li&gt;學會python的概念，可以使用相同概念在C#、C++、Javascript或Perl找關鍵詞理解他們的程式語言&lt;/li&gt;
-    &lt;li&gt;無需經驗，就能學習&lt;/li&gt;
-     &lt;/ul&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151113012225.11">&lt;section&gt;
 
     &lt;h1&gt;Does anyone really use Python?&lt;/h1&gt;
@@ -2282,8 +2346,11 @@ jupyter notebook
 				
 </t>
 <t tx="leo.20151113012225.12">&lt;section&gt;
-    &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;看完老師要我們看的影片，雖然適用google翻譯才看懂的，可是還是對Python有了初步的了解，也越來越聽得懂老師的上課內容了，相信之後會更進步。&lt;/p&gt;
+    &lt;h1&gt;Python語言&lt;/h1&gt;
+    &lt;p&gt;可以在Jupyter右上角的New打開點Python3&lt;/p&gt;
+    &lt;p&gt;輸入print("hello")&lt;/p&gt;
+    &lt;p&gt;點run cell執行&lt;/p&gt;
+    &lt;p&gt;就會跑出 hello&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2337,7 +2404,7 @@ jupyter notebook
 &lt;section&gt;
   &lt;section&gt;
 
-    &lt;h1&gt;第三週&lt;/h1&gt;
+    &lt;h1&gt;第三週作業&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
     	
@@ -2345,7 +2412,7 @@ jupyter notebook
     
   &lt;section&gt;
 
-    &lt;h1&gt;開始理解了，覺得開心&lt;/h1&gt;
+    &lt;h1&gt;Python是一個新主流，也是一種語言&lt;/h1&gt;
     
   &lt;/section&gt;
     	
@@ -2357,13 +2424,15 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section id="hw-task-one"&gt;
 
-    &lt;h1&gt;第三週&lt;/h1&gt;
-    &lt;p&gt;內容&lt;/p&gt;
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;Python&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;Python&lt;/li&gt;
     &lt;li&gt;為什麼使用Python?&lt;/li&gt;
     &lt;li&gt;Does anyone really use Python?&lt;/li&gt;
+    &lt;li&gt;Python語言&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
     			
 &lt;/section&gt;
@@ -2373,7 +2442,8 @@ jupyter notebook
 
     &lt;h1&gt;Python&lt;/h1&gt;
     &lt;p&gt;Python是一種物件導向、直譯式的電腦程式語言，具有近二十年的發展歷史。它包含了一組功能完備的標準庫，能夠輕鬆完成很多常見的任務。它的語法簡單，與其它大多數程式設計語言使用大括弧不一樣，它使用縮進來定義語句塊。&lt;/p&gt;
-    &lt;p&gt;與Scheme、Ruby、Perl、Tcl等動態語言一樣，Python具備垃圾回收功能，能夠自動管理記憶體使用。它經常被當作腳本語言用於處理系統管理任務和網路程式編寫，然而它也非常適合完成各種高階任務。Python虛擬機本身幾乎可以在所有的作業系統中運行。使用一些諸如py2exe、PyPy、PyInstaller之類的工具可以將Python原始碼轉換成可以脫離Python解釋器執行的程式。&lt;/p&gt;
+    &lt;p&gt;與Scheme、Ruby、Perl、Tcl等動態語言一樣，Python具備垃圾回收功能，能夠自動管理記憶體使用，它的用途:統計、簡報、計算、或用來管理倉儲或資料。它經常被當作腳本語言用於處理系統管理任務和網路程式編寫，然而它也非常適合完成各種高階任務。Python虛擬機本身幾乎可以在所有的作業系統中運行。&lt;/p&gt;
+    &lt;p&gt;Python是免費的所以可以提供給更多人使用&lt;/p&gt;
    
 &lt;/section&gt;
 				
@@ -2383,29 +2453,53 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20151113015646.10">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
+<t tx="leo.20151113015646.10">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;LEO語言&lt;/h1&gt;
+    &lt;p&gt;我們可以透過老師的reveal.leo檔，製作我們的投影片和作業，可以透過leo編輯器，在個人網頁中加入影片或圖片等資料。&lt;/p&gt;
+    &lt;p&gt;leo的語言就是一定要記得有一個開始就要有一個結束。&lt;/p&gt;
+    &lt;p&gt;可以利用html語法套用在LEO編輯器，編輯我們的資料。&lt;/p&gt;
+    &lt;p&gt;例如:
+    &lt;ul&gt;
+    &lt;p&gt;*字代表小於大於符號
+    &lt;li&gt;只要在*加入"ul"的碼，便可製出有小圓頭的清單 ，接下來在每個清單前面都要在*加入"li"，每個清單都要在li前面加入/已表示結束，然後再資料輸入後在*加入"/ul"。&lt;/li&gt;
+    &lt;li&gt;在*內加入h1，打入標題文字，再以*字內加入/h1。&lt;/li&gt;
+    &lt;li&gt;每個語法都以相同方式做開始與結束，就能完成投影片編輯。&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;p&gt; Leo Editor 基本操作&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;p&gt;節點&lt;/p&gt;
+    &lt;li&gt;節點標題&lt;/li&gt;
+    &lt;li&gt;節點內容&lt;/li&gt;
+    &lt;li&gt;節點位置與從屬架構&lt;/li&gt;
+    &lt;p&gt;用法&lt;/p&gt;
+    &lt;li&gt;@edit用法&lt;/li&gt;
+    &lt;li&gt;@path用法&lt;/li&gt;
+    &lt;li&gt;@button用法&lt;/li&gt;
+    &lt;li&gt;@clean用法&lt;/li&gt;
+    &lt;li&gt;@language&lt;/li&gt;
+    &lt;li&gt;@others&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151113015646.11">&lt;section&gt;
 
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+    &lt;h1&gt;Jupyter&lt;/h1&gt;
+    &lt;p&gt;上課時，老師都用Jupyter使用python3。&lt;/p&gt;
+    &lt;p&gt;Jupyter 是把IPython和Python解釋器剝離後的產物，將逐漸替代IPython 獨立發行。Jupyter 可以和Python 之外的程序結合，提供新的、強大的服務。例如:Ruby REPL環境IRuby 和Julia REPL環境IJulia。&lt;/p&gt;
+    &lt;p&gt;我們可以利用Jupyter去學習Python語言，讓自季更熟悉Python。&lt;/p&gt;
    
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151113015646.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;成為一個機械設計工程師，我覺得要充滿好奇心，有問題要記得求解，不然真的會很多都不懂&lt;/p&gt;
+    &lt;p&gt;我發現瞭解完leo編輯器和每次都會被打開的Jupyter後，我越來越了解老師的上課內容了，原來我們的上課內容都一直是在用Python，覺得課程內容越來用有趣了，雖然老師每次上課的內容不一定會完全了解，但透過影片和網路查詢資料，我更清楚的知道這堂課在教什麼，和為什麼要學這堂課了，讓我對程式語言開始有興趣了。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2459,7 +2553,7 @@ jupyter notebook
 &lt;section&gt;
   &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第四週報告&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
     	
@@ -2467,7 +2561,7 @@ jupyter notebook
     
   &lt;section&gt;
 
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    &lt;h1&gt;投影片學習&lt;/h1&gt;
     
   &lt;/section&gt;
     	
@@ -2479,13 +2573,14 @@ jupyter notebook
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section id="hw-task-one"&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;LEO and Jupyter&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;LEO?&lt;/li&gt;
+    &lt;li&gt;LEO語言&lt;/li&gt;
+    &lt;li&gt;Jupyter&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
     			
 &lt;/section&gt;
@@ -2493,11 +2588,539 @@ jupyter notebook
 </t>
 <t tx="leo.20151113015646.9">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+    &lt;h1&gt;LEO?&lt;/h1&gt;
+    &lt;p&gt; Leo Editor 就是採 Python 的程式方法與流程來控管其中的各節點與資料內容，&lt;/p&gt;
+    &lt;p&gt; leo是一種編輯器，可以編輯網頁、製作投影片也可以當成是一個交流程式的工具&lt;/p&gt;
+    &lt;p&gt;使用LEO編輯投影片和網頁時，記得要注意版本，如果是使用5.0版本，可能在5.1版本上無法開啟使用或檔案出問題。&lt;p&gt;
    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113154922.1">&lt;section&gt;
+
+    &lt;h1&gt;為什麼使用Python?&lt;/h1&gt;
+     &lt;ul&gt;
+    &lt;li&gt;適合初學者學習程式語言&lt;/li&gt;
+    &lt;li&gt;學會python的概念，可以使用相同概念在C#、C++、Javascript或Perl找關鍵詞理解他們的程式語言&lt;/li&gt;
+    &lt;li&gt;無需經驗，就能學習&lt;/li&gt;
+     &lt;/ul&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113154938.1">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;看完老師要我們看的影片，雖然適用google翻譯才看懂的，可是還是對Python有了初步的了解，也越來越聽得懂老師的上課內容了，相信之後會更進步。對於程式設計更有概念，這堂課也更吸引我了。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113160707.1">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;雖然第三週還迷迷糊糊的，都跟遮老師的步驟走下去，我相信我可以當一個不一樣的工程師，給自己的分數是 :  60分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113161511.1">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;雖然課程有許多不懂的問題，但還在成長中&lt;/p&gt;
+    &lt;p&gt;給自己的期許分數是80分&lt;/p&gt;
+    &lt;p&gt;目前給自己的分數是50分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113171612.1">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;開始有點進入狀況了，也有點熟悉老師的上課內容。&lt;/p&gt;
+    &lt;p&gt;給自己的分數:61分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113171819.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151113171819.11">&lt;section&gt;
+
+    &lt;h1&gt;解決方法&lt;/h1&gt;
+    &lt;p&gt;將有衝突的地方刪除&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;將&lt;&lt;&lt;&lt;&lt;&lt;&lt;HEAD刪除&lt;/li&gt;
+    &lt;li&gt;將=======刪除 &lt;/li&gt;
+    &lt;li&gt;將沒有關的節點關起來&lt;/li&gt;
+    &lt;/ul&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113171819.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;一開始在做協同時，我用老師的方法將有衝突的地方做了修正，但上傳後，我想在下載下來做資料修改時，就發現leo檔已經有問題了，我覺得很奇怪，後來同學把倉儲修好了，我才知道原來大家的協同倉儲那時候早就壞了，協同倉儲被修好了後，之後陸陸續續還是有人會把倉儲弄壞，然後又被修復，反反覆覆的被弄壞又被修復，讓我覺得我每次上傳資料時都會很緊張和小心，很怕弄壞同學的檔案，但是這也是提醒我，在做協同，絕對不能忘記一些步驟，也要注意自己有沒有不小心破壞到leo檔，覺得協同讓我有非常大的收穫。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113171819.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151113171819.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151113171819.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151113171819.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151113171819.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113171819.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113171819.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第七週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113171819.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;協同&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;協同倉儲&lt;/li&gt;
+    &lt;li&gt;缺點&lt;/li&gt;
+    &lt;li&gt;解決方法&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113171819.9">&lt;section&gt;
+
+    &lt;h1&gt;協同倉儲&lt;/h1&gt;
+    &lt;p&gt;我們可以在GitHub建立一個大家都可以去編輯的倉儲，在使用leo編輯器，讓每一個在leo裡建立自己的個人網頁，在上傳自己的網業資料，這樣就可以擁有一個大家交流資料的地方。&lt;/p&gt;
+    &lt;p&gt;在user底下，將9999複製  ，改成自己的學號，在做編輯，上傳時，記得是要點使用者的那個按鍵喔
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113181636.1">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;對於協同，我更知道自己在做什麼了&lt;/p&gt;
+    &lt;p&gt;這週給自己的成績:67分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182002.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151113182002.10">&lt;section&gt;
+
+
+    &lt;p&gt;利用leo編輯網頁資料，上傳到GitHub倉儲裡，再利用GitHub倉儲網址連結到個人的網頁。GitHub能廣泛運用在太多管理資料上，所以使用GitHub管理自己的資料能有效率的解決許多問題&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182002.11">&lt;section&gt;
+
+    &lt;h1&gt;Git基本操作&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;git  clone 加入倉儲網址=複製倉儲資料&lt;/li&gt;
+    &lt;li&gt;git  checkout 加入分支名=切換分支 &lt;/li&gt;
+    &lt;li&gt;git  add  -A=拍快照到資料庫&lt;/li&gt;
+    &lt;li&gt;git  commit  -m=提交&lt;/li&gt;
+    &lt;li&gt;git push = 推送&lt;/li&gt;
+    &lt;li&gt;git config --global user.email 帳號&lt;/li&gt;
+    &lt;li&gt;git config --global user.name 使用者&lt;/li&gt;
+    &lt;li&gt;git pull = 匯入資料&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182002.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;一開始上課時，我都不懂我打的Git指令是什麼，透過老師上課的講解與自己練習我越來越了解每一個Git指令在做什麼，發現因為一開始的不懂造成很多問題，現在熟悉指令後，了解自己曾出過的問題是什麼，讓我更進步，錯誤雖然會讓人頭痛，但是解決錯誤可以成長，也能讓自己不會輕易放去學習。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182002.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;進入狀況後，將每週作業做好，在這堂課學的東西，可以發現自己的很多不足，這樣我才會成長。&lt;/p&gt;
+    &lt;p&gt;這週給自己的成績:63分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182002.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151113182002.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151113182002.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151113182002.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151113182002.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113182002.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113182002.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第五週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;了解~~~&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113182002.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;GitHub&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;GitHub使用&lt;/li&gt;
+    &lt;li&gt;為什麼使用GitHub?&lt;/li&gt;
+    &lt;li&gt;Git基本操作&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113182002.9">&lt;section&gt;
+
+    &lt;h1&gt;GitHub使用&lt;/h1&gt;
+    &lt;p&gt;要使用GitHub必需先建立帳號，建立帳號後，就能夠有效的管理倉儲及上傳資料。&lt;/p&gt;
+    &lt;p&gt;每次上傳資料，GitHub會記錄每次推送的版本，如果檔案出現問題，可以利用回朔，找回還沒出問題的檔案。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182428.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151113182428.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;這週將之前說認識的python再深入介紹一下，也將自己的問題做了紀錄，雖然在做其他軟體與程式介紹，因為我都是淺學，所以有很多的不足，因為老師給的資料很多都是英文，雖然都不是能了解得很徹底，但是我會努力的完成每週作業，提高自己的價值，做一個不一樣的工程師。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182428.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;還在前進中&lt;/p&gt;
+    &lt;p&gt;這週給自己的成績:64分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151113182428.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151113182428.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151113182428.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151113182428.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151113182428.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113182428.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151113182428.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第六週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;加油!!!!!!&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113182428.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;補充與問題統整&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;補充Python&lt;/li&gt;
+    &lt;li&gt;問題與討論&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151113182428.9">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116000536.1">&lt;section&gt;
+
+    &lt;h1&gt;缺點&lt;/h1&gt;
+    &lt;p&gt;協同倉儲的點就是，因為資料可以很多人做編輯，如果有人在編輯時，不小心在不知情的情況下刪除leo的資料，可能導致一些使用者的資料被刪除，嚴重的話，可能導致整個協同倉儲壞掉。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116192551.1">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116202754.1">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116212234.1">&lt;section&gt;
+
+    &lt;h1&gt;工程分支&lt;/h1&gt;
+    &lt;p&gt;核與航空工程最像機械工程&lt;/p&gt;
+    &lt;p&gt;海軍架構是最像土木工程&lt;/p&gt;
+    &lt;p&gt;石油工程對應材料和化工工程&lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116213351.1">&lt;section&gt;
+
+    &lt;h1&gt;為什麼使用GitHub?&lt;/h1&gt;
+    &lt;p&gt;出社會後，如果總是把資料或要給客戶的設計圖放在隨身硬碟或電腦上，如過電腦和隨身硬碟出了問題，總不能更客戶說電腦壞了或資料檔案錯誤等跟客戶交差，這樣會影響客戶的心情或公司對你的信任，所以身為工程師，應該要將資料放入遠端，這樣會自己減少很多不必要的麻煩。&lt;/p&gt;
+    &lt;p&gt;GitHub可以有有效的管理檔案，建立自己的倉儲，管理自己的資料。也可以利用協同，讓大家都可以管理一份資料。即使資料出問題了，也能有效的回朔到沒問題的資料，當客戶拿到的檔案出問題了，也能第一時間修改錯誤，讓客戶能交差。&lt;/p&gt;
+    
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116223746.2"></t>
+<t tx="leo.20151116223746.3">(uncached) leo.20151116202754.1
+Diff...
+  &lt;section&gt;
+      &lt;h1&gt;自評成績&lt;/h1&gt;
+-     &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+?               ^
++     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+?               ^
+      &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20151116223746.4">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116223746.5">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151116230132.1">&lt;section&gt;
+
+    &lt;h1&gt;Git基本操作&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;git branch 分支名=建立分支&lt;/li&gt;
+    &lt;li&gt;git branch=查看分支 &lt;/li&gt;
+    &lt;li&gt;git  reset --hard = 回朔&lt;/li&gt;
+    &lt;/ul&gt;
+
 &lt;/section&gt;
 				
 </t>

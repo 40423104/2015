@@ -1,8 +1,8 @@
-Title:2015 計算機程式 第三週
-Date: 2015-10-3
+Title: 2015 simplest
+Date: 2015-09-1511:41
 Category: Python
 Tags: pelican, publishing
-Slug: 2015cp_hw_w3
+Slug: 2015cp_hw_w0
 Authors: coursemdetw
 Summary: 作業一摘要
 
@@ -10,9 +10,9 @@ Summary: 作業一摘要
 
 利用 iframe 嵌入投影片:
 
-<iframe src="W3.html" width="500" height="300"></iframe>
+<iframe src="simplest.html" width="500" height="300"></iframe>
 
-[作業一投影片](W3.html){:target="_blank"}
+[作業一投影片](simplest.html){:target="_blank"}
 
 使用 H1 標題
 ============
