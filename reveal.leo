@@ -26,7 +26,16 @@
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit simplest.md</vh></v>
-<v t="leo.20151112233718.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151112233718.1"><vh>@edit 2015cphww17.md</vh></v>
+<v t="leo.20160108233920.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20160108233922.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160108233712.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20160108233713.1"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20160108233714.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20160108233715.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20160108233716.1"><vh>@edit 2015cphww10.md</vh></v>
+<v t="leo.20160108233717.1"><vh>@edit 2015cphww9.md</vh></v>
+<v t="leo.20160108233721.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="leo.20151113182440.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo.20151113182442.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151113171828.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -297,22 +306,178 @@
 </v>
 </v>
 </v>
-<v t="leo.20151112231403.1" a="E"><vh>@clean W8.html</vh>
-<v t="leo.20151112231403.2"><vh>檔案說明</vh></v>
-<v t="leo.20151112231403.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151112231403.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151112231403.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151112231403.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151112231403.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151112231702.1"><vh>內容大綱</vh></v>
-<v t="leo.20151112231403.8"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20151113000709.1"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20151113000951.1"><vh>IPv6和IPv4比較</vh></v>
-<v t="leo.20151112231403.9"><vh>心得感想</vh></v>
-<v t="leo.20151116202754.1"><vh>自評成績</vh></v>
+<v t="leo.20160108194856.1"><vh>@clean W17.html</vh>
+<v t="leo.20160108194856.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194856.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194856.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194856.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194856.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194856.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194856.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194856.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194856.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194856.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194856.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194856.13"><vh>自評成績</vh></v>
 </v>
 </v>
-<v t="leo.20151112231403.10"><vh>script</vh></v>
+<v t="leo.20160108194856.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108234017.1"><vh>@clean W16.html</vh>
+<v t="leo.20160108234017.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108234017.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108234017.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108234017.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108234017.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108234017.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108234017.12"><vh>元旦放假</vh></v>
+</v>
+</v>
+<v t="leo.20160108234017.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108234018.1"><vh>@clean W15.html</vh>
+<v t="leo.20160108234018.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108234018.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108234018.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108234018.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108234018.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108234018.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108234018.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108234018.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108234018.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108234018.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108234018.12"><vh>心得感想</vh></v>
+<v t="leo.20160108234018.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108234018.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194858.1"><vh>@clean W14.html</vh>
+<v t="leo.20160108194858.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194858.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194858.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194858.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194858.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194858.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194858.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194858.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194858.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194858.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194858.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194858.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108194858.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194859.1"><vh>@clean W13.html</vh>
+<v t="leo.20160108194859.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194859.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194859.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194859.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194859.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194859.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194859.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194859.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194859.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194859.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194859.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194859.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108194859.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194901.1"><vh>@clean W12.html</vh>
+<v t="leo.20160108194901.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194901.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194901.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194901.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194901.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194901.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194901.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194901.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194901.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194901.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194901.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194901.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108194901.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194902.1"><vh>@clean W11.html</vh>
+<v t="leo.20160108194902.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194902.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194902.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194902.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194902.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194902.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194902.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194902.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194902.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194902.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194902.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194902.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108194902.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194903.1"><vh>@clean W10.html</vh>
+<v t="leo.20160108194903.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194903.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194903.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194903.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194903.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194903.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194903.8"><vh>內容大綱</vh></v>
+</v>
+</v>
+<v t="leo.20160108194903.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194904.1"><vh>@clean W9.html</vh>
+<v t="leo.20160108194904.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194904.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194904.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194904.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194904.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194904.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194904.8"><vh>內容大綱</vh></v>
+</v>
+</v>
+<v t="leo.20160108194904.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160108194905.1"><vh>@clean W8.html</vh>
+<v t="leo.20160108194905.2"><vh>檔案說明</vh></v>
+<v t="leo.20160108194905.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160108194905.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160108194905.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160108194905.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160108194905.7"><vh>有關我的作業</vh></v>
+<v t="leo.20160108194905.8"><vh>內容大綱</vh></v>
+<v t="leo.20160108194905.9"><vh>什麼是IPv4?</vh></v>
+<v t="leo.20160108194905.10"><vh>什麼是IPv6?</vh></v>
+<v t="leo.20160108194905.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194905.12"><vh>心得感想</vh></v>
+<v t="leo.20160108194905.13"><vh>自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108194905.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -364,8 +529,13 @@
 <v t="leo.20151113182002.9"><vh>GitHub使用</vh></v>
 <v t="leo.20151116213351.1"><vh>為什麼使用GitHub?</vh></v>
 <v t="leo.20151113182002.10"><vh>為什麼使用GitHub?1</vh></v>
+<v t="leo.20160108211505.1"><vh>GitHub建立</vh></v>
+<v t="leo.20160108213222.1"><vh>GitHub建立</vh></v>
 <v t="leo.20151113182002.11"><vh>Git基本操作</vh></v>
 <v t="leo.20151116230132.1"><vh>Git基本操作1</vh></v>
+<v t="leo.20160108214206.1"><vh>推送檔案</vh></v>
+<v t="leo.20160108220346.1"><vh>推送檔案</vh></v>
+<v t="leo.20160108221336.1"><vh>推送檔案</vh></v>
 <v t="leo.20151113182002.12"><vh>心得感想</vh></v>
 <v t="leo.20151113182002.13"><vh>自評成績</vh></v>
 </v>
@@ -413,7 +583,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113005653.1"><vh>@clean W2.html</vh>
+<v t="leo.20151113005653.1" a="E"><vh>@clean W2.html</vh>
 <v t="leo.20151113005653.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113005653.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113005653.4" a="E"><vh>body 標註</vh>
@@ -433,7 +603,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113003831.1" a="E"><vh>@clean W1.html</vh>
+<v t="leo.20151113003831.1"><vh>@clean W1.html</vh>
 <v t="leo.20151113003831.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113003831.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113003831.4" a="E"><vh>body 標註</vh>
@@ -547,22 +717,28 @@
 </v>
 </v>
 </v>
-<v t="leo.20151116223746.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151116223746.2"><vh>Recovered Nodes</vh>
 <v t="leo.20151116223746.3"><vh>Recovered node "自評成績" from @clean W8.html</vh>
 <v t="leo.20151116223746.4"><vh>old:自評成績</vh></v>
 <v t="leo.20151116223746.5"><vh>new:自評成績</vh></v>
 </v>
 </v>
-<v t="leo.20151116231945.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151116231945.2"><vh>Recovered Nodes</vh>
 <v t="leo.20151116231945.3"><vh>Recovered node "自評成績" from @clean W8.html</vh>
 <v t="leo.20151116231945.4"><vh>old:自評成績</vh></v>
 <v t="leo.20151116231945.5"><vh>new:自評成績</vh></v>
 </v>
 </v>
-<v t="leo.20151117020547.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151117020547.1"><vh>Recovered Nodes</vh>
 <v t="leo.20151117020547.2"><vh>Recovered node "自評成績" from @clean W8.html</vh>
 <v t="leo.20151117020547.3"><vh>old:自評成績</vh></v>
 <v t="leo.20151117020547.4"><vh>new:自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160108184714.1"><vh>Recovered Nodes</vh>
+<v t="leo.20160108184714.2"><vh>Recovered node "自評成績" from @clean W8.html</vh>
+<v t="leo.20160108184714.3"><vh>old:自評成績</vh></v>
+<v t="leo.20160108184714.4"><vh>new:自評成績</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1988,130 +2164,6 @@ jupyter notebook
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151112231403.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151112231403.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151112231403.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151112231403.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151112231403.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="leo.20151112231403.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151112231403.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151112231403.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-  &lt;section&gt;
-
-    &lt;h1&gt;第八週&lt;/h1&gt;
-    &lt;p&gt;學號:40423104&lt;/p&gt;
-    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
-
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
-    
-  &lt;/section&gt;
-    	
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151112231403.8">&lt;section&gt;
-
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151112231403.9">&lt;section&gt;
-    &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151112231702.1">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-
-    &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
-    &lt;li&gt;心得感想&lt;/li&gt;
-    &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151113000709.1">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151113000951.1">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151113003831.1">@language xml
 @tabwidth -4
 @others
@@ -2583,7 +2635,7 @@ jupyter notebook
 <t tx="leo.20151113015646.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;LEO and Jupyter&lt;/p&gt;
@@ -2860,7 +2912,7 @@ jupyter notebook
 <t tx="leo.20151113182002.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;section id="hw-task-one"&gt;
   &lt;section&gt;
 
     &lt;h1&gt;第五週&lt;/h1&gt;
@@ -2888,7 +2940,9 @@ jupyter notebook
     &lt;ul&gt;
     &lt;li&gt;GitHub使用&lt;/li&gt;
     &lt;li&gt;為什麼使用GitHub?&lt;/li&gt;
+    &lt;li&gt;建立倉儲與刪除倉儲&lt;/li&gt;
     &lt;li&gt;Git基本操作&lt;/li&gt;
+    &lt;li&gt;推送檔案&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -3070,13 +3124,6 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151116202754.1">&lt;section&gt;
-    &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20151116212234.1">&lt;section&gt;
 
     &lt;h1&gt;工程分支&lt;/h1&gt;
@@ -3168,7 +3215,7 @@ Diff...
 Diff...
   &lt;section&gt;
       &lt;h1&gt;自評成績&lt;/h1&gt;
--     &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+-     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
 ?               ^
 +     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
 ?               ^
@@ -3185,8 +3232,1280 @@ Diff...
 </t>
 <t tx="leo.20151117020547.4">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108184714.1"></t>
+<t tx="leo.20160108184714.2">(uncached) leo.20151116202754.1
+Diff...
+  &lt;section&gt;
+      &lt;h1&gt;自評成績&lt;/h1&gt;
+-     &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+?               ^
++     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+?               ^
+      &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160108184714.3">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108184714.4">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
     &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
     &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194856.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194856.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194856.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194856.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194856.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194856.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194856.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194856.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194856.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194856.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194856.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194856.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194856.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194856.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194858.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194858.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194858.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194858.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194858.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194858.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194858.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194858.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194858.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194858.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194858.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194858.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194858.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194858.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194859.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194859.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194859.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194859.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194859.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194859.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194859.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194859.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194859.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194859.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194859.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194859.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194859.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194859.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194901.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194901.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194901.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194901.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194901.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194901.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194901.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194901.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194901.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194901.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194901.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194901.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194901.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194901.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194902.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194902.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194902.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194902.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194902.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194902.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194902.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194902.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194902.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194902.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194902.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194902.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194902.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194902.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194903.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194903.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194903.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194903.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194903.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194903.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194903.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194903.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;運動會&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194903.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;運動會&lt;/h1&gt;
+   		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194904.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194904.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194904.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194904.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194904.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194904.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194904.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194904.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第9週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;期中考加油&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194904.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;期中考加油~~&lt;/h1&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194905.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108194905.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194905.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194905.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194905.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108194905.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108194905.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108194905.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108194905.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108194905.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194905.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108194905.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194905.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108194905.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108211505.1">&lt;section&gt;
+
+    &lt;h1&gt;GitHub建立倉儲&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;登入GitHub網站&lt;/li&gt;
+    &lt;li&gt;點選右上角 + 中的 New repository &lt;/li&gt;
+    &lt;li&gt;在 Repository name 建立所要設定的名稱
+(倉儲名稱請自訂)&lt;/li&gt;
+   &lt;li&gt;勾選 lnitialize this repository with a README&lt;/li&gt;
+   &lt;li&gt;點選 Create repository&lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108213222.1">&lt;section&gt;
+
+    &lt;h1&gt;GitHub刪除倉儲&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;點選右上角的箭頭&lt;/li&gt;
+    &lt;li&gt;點選 Your prdfile &lt;/li&gt;
+    &lt;li&gt;選擇要刪除的倉儲&lt;/li&gt;
+    &lt;li&gt;進入 Stettings&lt;/li&gt;
+    &lt;li&gt;點選 Delete this repository&lt;/li&gt;
+    &lt;li&gt;輸入將要刪除得倉儲名稱&lt;/li&gt;
+    &lt;li&gt;點選 I understand the consequences , delete this repository&lt;/li&gt;
+    &lt;li&gt;回到自己的倉儲頁面→確認倉儲是否被刪除&lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108214206.1">&lt;section&gt;
+
+    &lt;h1&gt;推送檔案&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;開啟 Star&lt;/li&gt;
+    &lt;li&gt;打開系統管理員 (cmd) →以自動切換 Y 硬碟 &lt;/li&gt;
+    &lt;li&gt;輸入 cd tmp → 轉換到 tmp 資料夾&lt;/li&gt;
+    &lt;li&gt;在倉儲網頁右上方複製倉儲網頁&lt;/li&gt;
+    &lt;li&gt;輸入指令 git clone 加入網址&lt;/li&gt;
+    &lt;li&gt;輸入 cd 加入倉儲名稱→切換道下在的倉儲資料夾&lt;/li&gt;
+    &lt;li&gt;輸入指令git branch gh-pages &lt;/li&gt;
+    &lt;li&gt;輸入指令git checkout gh-pages →切換分支&lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20160108220346.1">&lt;section&gt;
+
+    &lt;h1&gt;推送檔案&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;使用老師提供的倉儲檔案&lt;/li&gt;
+    &lt;li&gt;先將倉儲分支切換為 gh-pages &lt;/li&gt;
+    &lt;li&gt;下載 gh-pages 中的檔案&lt;/li&gt;
+    &lt;li&gt;將檔案內容複製→除了READ.ME檔不複製&lt;/li&gt;
+    &lt;li&gt;貼到自己的倉儲檔案&lt;/li&gt;
+    &lt;li&gt;回到系統管理員 (cmd)&lt;/li&gt;
+    &lt;li&gt;輸入指令 git add -A →拍快照 &lt;/li&gt;
+    &lt;li&gt;輸入指令 git commit -m "initail add" &lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+
+
+
+
+				
+</t>
+<t tx="leo.20160108221336.1">&lt;section&gt;
+
+    &lt;h1&gt;推送檔案&lt;/h1&gt;
+    &lt;ul&gt;
+    &lt;li&gt;輸入指令 git global --user.email "帳號"&lt;/li&gt;
+    &lt;li&gt;輸入指令 git global --user.name "使用者" &lt;/li&gt;
+    &lt;li&gt;輸入指令 git commit -m "initail add"&lt;/li&gt;
+    &lt;li&gt;輸入指令git push origin gh-pages→推送資料&lt;/li&gt;
+    &lt;li&gt;系統會詢問你的GitHub使用者名稱及密碼&lt;/li&gt;
+    &lt;li&gt;輸入GitHub使用者名稱及密碼&lt;/li&gt;
+    &lt;li&gt;輸入完畢成功推送&lt;/li&gt;
+    &lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+
+
+
+				
+</t>
+<t tx="leo.20160108234017.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108234017.12">&lt;section&gt;
+    &lt;h1&gt;1/1日元旦放假&lt;/h1&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108234017.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108234017.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108234017.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108234017.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108234017.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108234017.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108234017.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第16週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;放假&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108234018.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160108234018.10">&lt;section id="hw-task-one"&gt;
+
+    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
+    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
+    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108234018.11">&lt;section&gt;
+
+    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
+    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108234018.12">&lt;section&gt;
+    &lt;h1&gt;心得感想&lt;/h1&gt;
+    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
+    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108234018.13">&lt;section&gt;
+    &lt;h1&gt;自評成績&lt;/h1&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160108234018.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160108234018.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20160108234018.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160108234018.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160108234018.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108234018.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160108234018.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+  &lt;section&gt;
+
+    &lt;h1&gt;第15週&lt;/h1&gt;
+    &lt;p&gt;學號:40423104&lt;/p&gt;
+    &lt;p&gt;姓名:Syuan&lt;/p&gt;
+    	
+  &lt;/section&gt;
+    
+  &lt;section&gt;
+
+    &lt;h1&gt;期中考結束，又是一個開使&lt;/h1&gt;
+    
+  &lt;/section&gt;
+    	
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108234018.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+
+    &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
+    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
+    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;心得感想&lt;/li&gt;
+    &lt;li&gt;自評成績&lt;/li&gt;
+    &lt;/ul&gt;
+    			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160108234018.9">&lt;section&gt;
+
+    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
+    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
+    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
+    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+   
 &lt;/section&gt;
 				
 </t>
