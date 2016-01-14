@@ -314,9 +314,12 @@
 <v t="leo.20160108194856.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194856.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194856.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194856.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108194856.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108194856.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194856.9"><vh>執行動態模擬</vh></v>
+<v t="leo.20160108194856.10"><vh>程式語言</vh></v>
+<v t="leo.20160115025826.1"><vh>程式語言</vh></v>
+<v t="leo.20160115030121.1"><vh>程式語言</vh></v>
+<v t="leo.20160115031330.1" a="M"><vh>程式語言</vh></v>
+<v t="leo.20160115031927.1"><vh>程式語言</vh></v>
 <v t="leo.20160108194856.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194856.13"><vh>自評成績</vh></v>
 </v>
@@ -347,9 +350,6 @@
 <v t="leo.20160108234018.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108234018.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108234018.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108234018.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108234018.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108234018.11"><vh>IPv6和IPv4比較</vh></v>
 <v t="leo.20160108234018.12"><vh>心得感想</vh></v>
 <v t="leo.20160108234018.13"><vh>自評成績</vh></v>
 </v>
@@ -366,9 +366,6 @@
 <v t="leo.20160108194858.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194858.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194858.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194858.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108194858.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108194858.11"><vh>IPv6和IPv4比較</vh></v>
 <v t="leo.20160108194858.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194858.13"><vh>自評成績</vh></v>
 </v>
@@ -385,9 +382,6 @@
 <v t="leo.20160108194859.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194859.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194859.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194859.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108194859.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108194859.11"><vh>IPv6和IPv4比較</vh></v>
 <v t="leo.20160108194859.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194859.13"><vh>自評成績</vh></v>
 </v>
@@ -404,9 +398,11 @@
 <v t="leo.20160108194901.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194901.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194901.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194901.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108194901.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108194901.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194901.9"><vh>程式碼介紹</vh></v>
+<v t="leo.20160115005344.1"><vh>程式碼介紹</vh></v>
+<v t="leo.20160115011401.1"><vh>程式碼介紹</vh></v>
+<v t="leo.20160115012648.1"><vh>程式碼介紹</vh></v>
+<v t="leo.20160115012449.1"><vh>程式碼介紹</vh></v>
 <v t="leo.20160108194901.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194901.13"><vh>自評成績</vh></v>
 </v>
@@ -423,9 +419,9 @@
 <v t="leo.20160108194902.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194902.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194902.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194902.9"><vh>什麼是IPv4?</vh></v>
-<v t="leo.20160108194902.10"><vh>什麼是IPv6?</vh></v>
-<v t="leo.20160108194902.11"><vh>IPv6和IPv4比較</vh></v>
+<v t="leo.20160108194902.10"><vh>如何修正 fix?</vh></v>
+<v t="leo.20160114235142.1"><vh>如何修正 fix?</vh></v>
+<v t="leo.20160114235717.1"><vh>如何修正 fix?</vh></v>
 <v t="leo.20160108194902.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194902.13"><vh>自評成績</vh></v>
 </v>
@@ -553,8 +549,8 @@
 <v t="leo.20151113015646.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151113015646.8"><vh>內容大綱</vh></v>
 <v t="leo.20151113015646.9"><vh>LEO?</vh></v>
-<v t="leo.20151113015646.10"><vh>LEO語言</vh></v>
 <v t="leo.20151113015646.11"><vh>Jupyter</vh></v>
+<v t="leo.20151113015646.10"><vh>LEO語言</vh></v>
 <v t="leo.20151113015646.12"><vh>心得感想</vh></v>
 <v t="leo.20151113171612.1"><vh>自評成績</vh></v>
 </v>
@@ -583,7 +579,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113005653.1" a="E"><vh>@clean W2.html</vh>
+<v t="leo.20151113005653.1"><vh>@clean W2.html</vh>
 <v t="leo.20151113005653.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113005653.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113005653.4" a="E"><vh>body 標註</vh>
@@ -739,6 +735,16 @@
 <v t="leo.20160108184714.2"><vh>Recovered node "自評成績" from @clean W8.html</vh>
 <v t="leo.20160108184714.3"><vh>old:自評成績</vh></v>
 <v t="leo.20160108184714.4"><vh>new:自評成績</vh></v>
+</v>
+</v>
+<v t="leo.20160114231208.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160114231208.3"><vh>Recovered node "補充Python" from @clean W6.html</vh>
+<v t="leo.20160114231208.4"><vh>old:補充Python</vh></v>
+<v t="leo.20160114231208.5"><vh>new:補充Python</vh></v>
+</v>
+<v t="leo.20160114231208.6"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
+<v t="leo.20160114231208.7"><vh>old:問題與討論</vh></v>
+<v t="leo.20160114231208.8"><vh>new:問題與討論</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2255,7 +2261,7 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151113003831.9">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151113003831.9">&lt;section&gt;
 
     &lt;h1&gt;第一堂課&lt;/h1&gt;
     &lt;p&gt;我上的第一堂課，完全不知道老師在幹嘛，只知道要跟著老師操作，也不知道為什麼要學github和python，老師要我們去看得如何做工程師那篇文章，都是英文所以大部分都看不懂&lt;/p&gt;
@@ -2268,7 +2274,7 @@ jupyter notebook
 @others
 
 </t>
-<t tx="leo.20151113005653.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151113005653.10">&lt;section&gt;
 
     &lt;h1&gt;What Engineers Do&lt;/h1&gt;
     &lt;p&gt;工程問題通常有多個解決方案，身為一個工程師會知道怎麼的方式能更有效率的解決問題，工程師很少達到最佳的解決方案，在第一時間，一個設計可能必須重複數次。&lt;/p&gt;
@@ -2365,7 +2371,7 @@ jupyter notebook
 <t tx="leo.20151113005653.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;Engineers&lt;/p&gt;
@@ -2486,7 +2492,7 @@ jupyter notebook
 <t tx="leo.20151113012225.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;Python&lt;/p&gt;
@@ -2772,20 +2778,11 @@ jupyter notebook
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
     &lt;h1&gt;第七週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
 
-    &lt;h1&gt;&lt;/h1&gt;
-    
-  &lt;/section&gt;
-    	
 &lt;/section&gt;
 	
 </t>
@@ -2912,7 +2909,7 @@ jupyter notebook
 <t tx="leo.20151113182002.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
   &lt;section&gt;
 
     &lt;h1&gt;第五週&lt;/h1&gt;
@@ -2933,7 +2930,7 @@ jupyter notebook
 <t tx="leo.20151113182002.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;GitHub&lt;/p&gt;
@@ -3045,7 +3042,7 @@ jupyter notebook
 <t tx="leo.20151113182428.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;補充與問題統整&lt;/p&gt;
@@ -3242,7 +3239,7 @@ Diff...
 Diff...
   &lt;section&gt;
       &lt;h1&gt;自評成績&lt;/h1&gt;
--     &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+-     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
 ?               ^
 +     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
 ?               ^
@@ -3259,7 +3256,7 @@ Diff...
 </t>
 <t tx="leo.20160108184714.4">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
     &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
 &lt;/section&gt;
 				
@@ -3269,36 +3266,26 @@ Diff...
 @others
 
 </t>
-<t tx="leo.20160108194856.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160108194856.10">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108194856.11">&lt;section&gt;
+    &lt;h1&gt;程式語言架構&lt;/h1&gt;
+    &lt;p&gt;程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。&lt;/p&gt;
 
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+
    
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194856.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;從這次的課程中，老師教我們如何繪製動態的圖，我覺得有點難了，但也收穫很多，在期中到期末在此課程學習到很多，對於程式語言有了更多的了解，下學期期待有更多不同的程式設計。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194856.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
     &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;期中作業給自己的分數:75分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3350,19 +3337,10 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第17週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
-
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
-    
-  &lt;/section&gt;
     	
 &lt;/section&gt;
 	
@@ -3373,11 +3351,10 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;p&gt;執行動態模擬&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;執行動態模擬&lt;/li&gt; 
+    &lt;li&gt;程式語言&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -3387,10 +3364,10 @@ Diff...
 </t>
 <t tx="leo.20160108194856.9">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+    &lt;h1&gt;執行動態模擬&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
    
 &lt;/section&gt;
 				
@@ -3400,36 +3377,15 @@ Diff...
 @others
 
 </t>
-<t tx="leo.20160108194858.10">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108194858.11">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108194858.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;學會使用程式語言畫線，和建立畫佈，能夠更了解程式語言要怎麼設計與精簡所設計的語言，雖然剛開始接觸的時候，遇到許多問題，但是經過了解，我覺得畫圖的程式語言很有趣。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194858.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;分數:72分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3481,20 +3437,12 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第14週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
     	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
-
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
-    
-  &lt;/section&gt;
-    	
+  
 &lt;/section&gt;
 	
 </t>
@@ -3504,11 +3452,8 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;p&gt;畫圖&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -3516,51 +3461,20 @@ Diff...
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160108194858.9">&lt;section&gt;
-
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108194859.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20160108194859.10">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108194859.11">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108194859.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;這堂課學習抽人與猜顏色，雖然對於猜顏色架構還是很多不懂得，但他的程式組成值得我在用心學習。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194859.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;分數:72分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3612,20 +3526,12 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第13週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
 
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
     
-  &lt;/section&gt;
-    	
 &lt;/section&gt;
 	
 </t>
@@ -3635,11 +3541,8 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;p&gt;抽人與猜顏色&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -3647,51 +3550,21 @@ Diff...
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160108194859.9">&lt;section&gt;
-
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108194901.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20160108194901.10">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108194901.11">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108194901.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;這堂課學習猜數字遊戲，在猜的過程當數字太大或太小都回給予提示這，我學會了怎麼設計一個小遊戲的程式語言，延續這樣的設計方法，可以設計很多不同的小遊戲，這讓我覺得很好玩。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194901.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;對於 Python 語言了解更多&lt;/p&gt;
+    &lt;p&gt;分數:71分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3743,20 +3616,12 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第12週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
     	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
 
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
-    
-  &lt;/section&gt;
-    	
 &lt;/section&gt;
 	
 </t>
@@ -3766,11 +3631,9 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;p&gt;猜數字遊戲&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;程式碼介紹&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -3780,10 +3643,15 @@ Diff...
 </t>
 <t tx="leo.20160108194901.9">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+    &lt;h1&gt;程式碼介紹&lt;/h1&gt;
+    &lt;p&gt; #coding: utf-8 &lt;/p&gt;
+    &lt;li&gt;1. # → 單行註解 &lt;/li&gt;
+    &lt;li&gt;2. 、、、→ 多行註解，需與、、、結束&lt;/li&gt;
+    &lt;li&gt;3.#coding: utf-8 → 宣告文字編碼&lt;/li&gt;
+    &lt;p&gt; import random &lt;/p&gt;
+    &lt;li&gt;1. import → 輸入導入&lt;/li&gt;
+    &lt;li&gt;2. random→ 亂數&lt;/li&gt;
+    
    
 &lt;/section&gt;
 				
@@ -3793,36 +3661,31 @@ Diff...
 @others
 
 </t>
-<t tx="leo.20160108194902.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160108194902.10">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108194902.11">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
+    &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
+    &lt;p&gt;1.先到老師的教學網站&lt;/p&gt;
+    &lt;p&gt;2.點選 2015Fall 課程 &lt;/p&gt;
+    &lt;p&gt;3.下載遠端或近端下載 fix 檔案&lt;/p&gt;
+    &lt;p&gt;4.將 Fix 檔解壓縮&lt;/p&gt;
+    &lt;p&gt;5.上網搜尋 leo editor github&lt;/p&gt;
+    &lt;p&gt;6.點選 leo-editor Github&lt;/p&gt;
+    &lt;p&gt;7.點選leo-editor&lt;/p&gt;
+    &lt;p&gt;8.點選release&lt;/p&gt;
    
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194902.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;這堂課在教修正 Fix與安裝Fix，這次我學習在影片中加入字幕，雖然沒有聲音介紹，但加入字幕真的需要花很多時間，拍影片真的不容易，因為如果有一個環節沒做好，可能就需要剪輯來修正影片的清楚性。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108194902.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;雖然可能做到65~70分的成績，但還是會加油的。&lt;/p&gt;
+     &lt;p&gt;分數:70分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -3874,19 +3737,11 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第11週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
 
-    &lt;h1&gt;相信把這堂課學好會非常不一樣&lt;/h1&gt;
-    
-  &lt;/section&gt;
     	
 &lt;/section&gt;
 	
@@ -3897,27 +3752,15 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
+    &lt;p&gt;Fix&lt;/p&gt;
     &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
+    &lt;li&gt;如何修正 fix?&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
     			
 &lt;/section&gt;
 	
-</t>
-<t tx="leo.20160108194902.9">&lt;section&gt;
-
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
-   
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20160108194903.1">@language xml
 @tabwidth -4
@@ -3974,7 +3817,7 @@ Diff...
 &lt;section&gt;
   &lt;section&gt;
 
-    &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;h1&gt;第10週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
     	
@@ -4084,7 +3927,7 @@ Diff...
 @others
 
 </t>
-<t tx="leo.20160108194905.10">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20160108194905.10">&lt;section&gt;
 
     &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
     &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
@@ -4383,36 +4226,15 @@ Diff...
 @others
 
 </t>
-<t tx="leo.20160108234018.10">&lt;section id="hw-task-one"&gt;
-
-    &lt;h1&gt;什麼是IPv6?&lt;/h1&gt;
-    &lt;p&gt;是網際網路通訊協定第6版&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 6&lt;/p&gt;
-    &lt;p&gt;IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160108234018.11">&lt;section&gt;
-
-    &lt;h1&gt;IPv6和IPv4比較&lt;/h1&gt;
-    &lt;p&gt;IPv6定義了一種新的分組格式，目的是為了最小化路由器處理的報文首部IPv4為標準化網際網路的核心部分，也是使用最廣泛的網際網路協定版本，由於IPv4報文和IPv6報文首部有很大不同，因此這兩種協定無法互操作。大多數情況下，IPv6僅僅是對IPv4的一種保守擴充功能。&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160108234018.12">&lt;section&gt;
     &lt;h1&gt;心得感想&lt;/h1&gt;
-    &lt;p&gt;在上課時，常常會聽到老師說IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;所以決定在第八週介紹IPv4和IPv6&lt;/p&gt;
-    &lt;p&gt;從這幾週當中我學到很多，很多高中沒接觸過的，也有很多讓我很難懂的，雖然從一開始的不懂到現在比較懂了，有8週的時，但在這段時間讓我越來越喜歡計算機程式這堂課了，很感謝老師給我們很多資料參考與學習，這些讓我對很多不會的東西大大改觀，雖然我的投影片和影片沒有細緻，但也是我每堂課跟著老師的步驟走的紀錄，希望自己在忘記步驟時，回去看一下自己的作法，再重新試試看，錯了就在修正，這樣我才會成長，最後一週，覺得時間過好快，期待每一週新的課程。&lt;/p&gt;
+    &lt;p&gt;在畫聖誕樹的時候，使用的是同學介紹的程式語言網頁，可以將打好的程式語言按執行就能夠馬上看到自己所設計的圖形，它也有介紹一些圖形或顏色得程式碼，雖然花了很多的時間在設計聖誕樹，但在設計當中，覺得自己所設計出來的每一條線都能馬上看到圖形，所以就覺得很有趣 ，很好玩，就花更多時間去設計然後完成他，看到自己的成果，讓我覺得超開心的。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160108234018.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
-    &lt;p&gt;期中作業給自己的分數:70分&lt;/p&gt;
+    &lt;p&gt;分數:73分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -4464,20 +4286,10 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-  &lt;section&gt;
-
     &lt;h1&gt;第15週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Syuan&lt;/p&gt;
-    	
-  &lt;/section&gt;
-    
-  &lt;section&gt;
 
-    &lt;h1&gt;期中考結束，又是一個開使&lt;/h1&gt;
-    
-  &lt;/section&gt;
-    	
 &lt;/section&gt;
 	
 </t>
@@ -4487,11 +4299,6 @@ Diff...
 &lt;section&gt;
 
     &lt;h1&gt;內容大綱&lt;/h1&gt;
-    &lt;p&gt;問題與討論&lt;/p&gt;
-    &lt;ul&gt;
-    &lt;li&gt;什麼是IPv4?&lt;/li&gt;
-    &lt;li&gt;什麼是IPv6?&lt;/li&gt;
-    &lt;li&gt;IPv6和IPv4比較&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
     &lt;/ul&gt;
@@ -4499,12 +4306,317 @@ Diff...
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160108234018.9">&lt;section&gt;
+<t tx="leo.20160114231208.2"></t>
+<t tx="leo.20160114231208.3">(uncached) leo.20151113182428.9
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;補充Python&lt;/h1&gt;
+      &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;重複迴圈
+      for : for i in range(5):
+                print(i)按run cell就會跑出
+                0
+                1
+                2
+                3
+                4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/section&gt;
+      
+      &lt;section&gt;
+      &lt;ul&gt;
+      &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+      &lt;li&gt;for i in range(2, 6):
+                  print(i)按run cell就會跑出
+                  2
+                  3
+                  4
+                  5&lt;/li&gt;
+       &lt;/section&gt;
+       
+       &lt;section&gt;
+       &lt;p&gt;總和程式基本概念&lt;/p&gt;
+       &lt;ul&gt;
+-      &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+?                     ^
++      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
+       &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+       &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+       &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+       &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+       &lt;li&gt;重複迴圈 for&lt;/li&gt;
+       &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;/section&gt;
+      
+     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160114231208.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160114231208.5">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160114231208.6">(uncached) leo.20151116192551.1
+Diff...
+  &lt;section&gt;
+  
+      &lt;h1&gt;問題與討論&lt;/h1&gt;
+      &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
++     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
+      &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+      &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+      &lt;/ul&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160114231208.7">&lt;section&gt;
 
-    &lt;h1&gt;什麼是IPv4?&lt;/h1&gt;
-    &lt;p&gt;是網際網路協定版本4&lt;/p&gt;
-    &lt;p&gt;英文:Internet Protocol version 4&lt;/p&gt;
-    &lt;p&gt;是網際網路協定的最新版本，用於封包交換網際網路的網路層協議&lt;/p&gt;
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160114231208.8">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160114235142.1">&lt;section&gt;
+
+    &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
+    &lt;p&gt;9.點選 broke-abbrev&lt;/p&gt;
+    &lt;p&gt;10.下載 Source code(zip) &lt;/p&gt;
+    &lt;p&gt;11.將leo-editor-broke-abbrev.zip檔放入 Fix 資料夾中&lt;/p&gt;
+    &lt;p&gt;12.到 Ana3_2015\data\SciTE 中開啟 SciTe&lt;/p&gt;
+    &lt;p&gt;13.使用 SciTe 開啟 fix.bat&lt;/p&gt;
+    &lt;p&gt;14.加入指令 copy copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/p&gt;
+    &lt;p&gt;15.儲存檔案 (Save)&lt;/p&gt;
+   
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20160114235717.1">&lt;section&gt;
+
+    &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
+    &lt;p&gt;16.使用 SciTe 開啟 start.bat&lt;/p&gt;
+    &lt;p&gt;17.在第35行 pip install 後改成 leo-editor-broke-abbrev.zip &lt;/p&gt;
+    &lt;p&gt;18.儲存檔案 (Save)&lt;/p&gt;
+    &lt;p&gt;19.開啟 fix.bat&lt;/p&gt;
+    &lt;p&gt;20.開啟start.bat&lt;/p&gt;
+    &lt;p&gt;21.輸入 leo (可自訂)&lt;/p&gt;
+    &lt;p&gt;就修正完成囉&lt;/p&gt;
+   
+&lt;/section&gt;</t>
+<t tx="leo.20160115005344.1">&lt;section&gt;
+
+    &lt;h1&gt;程式碼介紹&lt;/h1&gt;
+    &lt;p&gt; 標準答案 = random.randint(1, 100) &lt;/p&gt;
+    &lt;li&gt;1. randint → 產生整數&lt;/li&gt;
+    &lt;li&gt;2. random.randint(1, 100)→ 從 1 ~ 100 隨機產生一個整數&lt;/li&gt;
+    &lt;li&gt;3.標準答案(為灰色字體) → 變數&lt;/li&gt;
+    &lt;li&gt;4.灰色字體 → 變數&lt;/li&gt;
+    &lt;li&gt;5.‧→ 呼叫它的方法
+    &lt;p&gt; 你猜的數字 = int(input("請輸入您所猜的整數:")) &lt;/p&gt;
+    &lt;li&gt;把input後面所得的字串顯示成整數&lt;/li&gt;
+    &lt;li&gt;input → 函式r&lt;/li&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115011401.1">&lt;section&gt;
+
+    &lt;h1&gt;程式碼介紹&lt;/h1&gt;
+    &lt;p&gt; while 標準答案 != 你猜的數字: &lt;/p&gt;
+    &lt;li&gt;1. while → 迴圈&lt;/li&gt;
+    &lt;li&gt;2. != → 不等於也是否定的意思&lt;/li&gt;
+    &lt;p&gt; if 標準答案 &lt; 你猜的數字: &lt;/p&gt;
+    &lt;li&gt;1. if (前面要縮排，空白鍵*4)→ 符合定義，然後執行&lt;/li&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115012449.1">&lt;section&gt;
+
+    &lt;h1&gt;程式碼介紹&lt;/h1&gt;
+    &lt;p&gt; print → 標準答案&lt;/p&gt;
+    &lt;p&gt; string → 字串&lt;/p&gt;
+    &lt;p&gt; integer → 整數&lt;/p&gt;
+    &lt;p&gt; fioat → 浮點數&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115012648.1">&lt;section&gt;
+
+    &lt;h1&gt;程式碼介紹&lt;/h1&gt;
+    &lt;p&gt; else  → 執行後面指令&lt;/p&gt;
+    &lt;p&gt; 猜測次數 += 1 → 等於猜測次數+1&lt;/p&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115025826.1">&lt;section&gt;
+
+    &lt;p&gt;以下圖示為利用Python來執行網頁的必要條件&lt;p&gt;
+    &lt;p&gt;&lt;a href="http://imgur.com/MRowviB"&gt;&lt;img src="http://i.imgur.com/MRowviB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115030121.1">&lt;section&gt;
+
+    &lt;p&gt;canvas → 需要設定 ID ，屬於 html (也就是超文件)，在後面設定畫佈大小。&lt;/p&gt;
+    &lt;p&gt;browser 模組中的 document, 並設為 doc 變數 → Brython特有的&lt;/p&gt;
+    &lt;p&gt;導入數學模組(import math)&lt;/p&gt;
+    &lt;p&gt;產生各小球的亂數速度用 (import random)→ 讓每一個小球初始速度是亂數&lt;/p&gt;
+    &lt;p&gt;導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。&lt;/p&gt;
+
+
+
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115031330.1">&lt;section&gt;
+
+    &lt;p&gt;取畫布的寬與高度 → 當作程式兩個變數&lt;/p&gt;
+    &lt;p&gt; n = 20 (球的數量)&lt;/p&gt;
+    &lt;p&gt;已知數列內容個數, 先分別與 None 對應 → 設定4個數列，分別要放20個球所對應的位置與速度。&lt;/p&gt;
+    &lt;p&gt;設定重力加速度, Y 方向向下為正&lt;/p&gt;
+    &lt;p&gt;設定空氣的黏滯阻尼係數&lt;/p&gt;
+    &lt;p&gt;設定球的彈力係數與半徑&lt;/p&gt;
+
+
+
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115031927.1">&lt;section&gt;
+ 
+    &lt;p&gt;利用迴圈產生初始速度&lt;/p&gt;
+    &lt;p&gt;random.random() 將會產生介於 0 與 1 的浮點亂數 → 速度使用此方式設置&lt;/p&gt;
+    &lt;p&gt;透過更新第 i 球 Y 座標的運算邏輯 → 進行運算&lt;/p&gt;
+    &lt;p&gt;透過更新第 i 球 X 座標的運算邏輯 → 進行運算&lt;/p&gt;
+    &lt;p&gt;設定圓的程式&lt;/p&gt;
+    &lt;p&gt;每隔特定時間, 進行動畫繪製 → 依我們規定的暫留的特定時間做動畫繪製&lt;/p&gt;
+    &lt;p&gt;畫布點擊後執行的函式&lt;/p&gt;
+    &lt;p&gt;只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結 &lt;/p&gt;
+
+
+
    
 &lt;/section&gt;
 				
