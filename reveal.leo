@@ -314,7 +314,6 @@
 <v t="leo.20160108194856.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160108194856.7"><vh>有關我的作業</vh></v>
 <v t="leo.20160108194856.8"><vh>內容大綱</vh></v>
-<v t="leo.20160108194856.9"><vh>執行動態模擬</vh></v>
 <v t="leo.20160108194856.10"><vh>程式語言</vh></v>
 <v t="leo.20160115025826.1"><vh>程式語言</vh></v>
 <v t="leo.20160115030121.1"><vh>程式語言</vh></v>
@@ -3269,7 +3268,7 @@ Diff...
 <t tx="leo.20160108194856.10">&lt;section&gt;
 
     &lt;h1&gt;程式語言架構&lt;/h1&gt;
-    &lt;p&gt;程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。&lt;/p&gt;
+    &lt;li&gt;程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。&lt;/li&gt;
 
 
    
@@ -3361,16 +3360,6 @@ Diff...
     			
 &lt;/section&gt;
 	
-</t>
-<t tx="leo.20160108194856.9">&lt;section&gt;
-
-    &lt;h1&gt;執行動態模擬&lt;/h1&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;/p&gt;
-   
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20160108194858.1">@language xml
 @tabwidth -4
@@ -3664,14 +3653,14 @@ Diff...
 <t tx="leo.20160108194902.10">&lt;section&gt;
 
     &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
-    &lt;p&gt;1.先到老師的教學網站&lt;/p&gt;
-    &lt;p&gt;2.點選 2015Fall 課程 &lt;/p&gt;
-    &lt;p&gt;3.下載遠端或近端下載 fix 檔案&lt;/p&gt;
-    &lt;p&gt;4.將 Fix 檔解壓縮&lt;/p&gt;
-    &lt;p&gt;5.上網搜尋 leo editor github&lt;/p&gt;
-    &lt;p&gt;6.點選 leo-editor Github&lt;/p&gt;
-    &lt;p&gt;7.點選leo-editor&lt;/p&gt;
-    &lt;p&gt;8.點選release&lt;/p&gt;
+    &lt;li&gt;1.先到老師的教學網站&lt;/li&gt;
+    &lt;li&gt;2.點選 2015Fall 課程 &lt;/li&gt;
+    &lt;li&gt;3.下載遠端或近端下載 fix 檔案&lt;/li&gt;
+    &lt;li&gt;4.將 Fix 檔解壓縮&lt;/li&gt;
+    &lt;li&gt;5.上網搜尋 leo editor github&lt;/li&gt;
+    &lt;li&gt;6.點選 leo-editor Github&lt;/li&gt;
+    &lt;li&gt;7.點選leo-editor&lt;/li&gt;
+    &lt;li&gt;8.點選release&lt;/li&gt;
    
 &lt;/section&gt;
 				
@@ -4490,27 +4479,26 @@ Diff...
 </t>
 <t tx="leo.20160114235142.1">&lt;section&gt;
 
-    &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
-    &lt;p&gt;9.點選 broke-abbrev&lt;/p&gt;
-    &lt;p&gt;10.下載 Source code(zip) &lt;/p&gt;
-    &lt;p&gt;11.將leo-editor-broke-abbrev.zip檔放入 Fix 資料夾中&lt;/p&gt;
-    &lt;p&gt;12.到 Ana3_2015\data\SciTE 中開啟 SciTe&lt;/p&gt;
-    &lt;p&gt;13.使用 SciTe 開啟 fix.bat&lt;/p&gt;
-    &lt;p&gt;14.加入指令 copy copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/p&gt;
-    &lt;p&gt;15.儲存檔案 (Save)&lt;/p&gt;
+
+    &lt;li&gt;9.點選 broke-abbrev&lt;/li&gt;
+    &lt;li&gt;10.下載 Source code(zip) &lt;/li&gt;
+    &lt;li&gt;11.將leo-editor-broke-abbrev.zip檔放入 Fix 資料夾中&lt;/li&gt;
+    &lt;li&gt;12.到 Ana3_2015\data\SciTE 中開啟 SciTe&lt;/li&gt;
+    &lt;li&gt;13.使用 SciTe 開啟 fix.bat&lt;/li&gt;
+    &lt;li&gt;14.加入指令 copy copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
+    &lt;li&gt;15.儲存檔案 (Save)&lt;/li&gt;
    
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20160114235717.1">&lt;section&gt;
 
-    &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
-    &lt;p&gt;16.使用 SciTe 開啟 start.bat&lt;/p&gt;
-    &lt;p&gt;17.在第35行 pip install 後改成 leo-editor-broke-abbrev.zip &lt;/p&gt;
-    &lt;p&gt;18.儲存檔案 (Save)&lt;/p&gt;
-    &lt;p&gt;19.開啟 fix.bat&lt;/p&gt;
-    &lt;p&gt;20.開啟start.bat&lt;/p&gt;
-    &lt;p&gt;21.輸入 leo (可自訂)&lt;/p&gt;
+    &lt;li&gt;16.使用 SciTe 開啟 start.bat&lt;/li&gt;
+    &lt;li&gt;17.在第35行 pip install 後改成 leo-editor-broke-abbrev.zip &lt;/li&gt;
+    &lt;li&gt;18.儲存檔案 (Save)&lt;/li&gt;
+    &lt;li&gt;19.開啟 fix.bat&lt;/li&gt;
+    &lt;li&gt;20.開啟start.bat&lt;/li&gt;
+    &lt;li&gt;21.輸入 leo (可自訂)&lt;/li&gt;
     &lt;p&gt;就修正完成囉&lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -4547,10 +4535,10 @@ Diff...
 <t tx="leo.20160115012449.1">&lt;section&gt;
 
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
-    &lt;p&gt; print → 標準答案&lt;/p&gt;
-    &lt;p&gt; string → 字串&lt;/p&gt;
-    &lt;p&gt; integer → 整數&lt;/p&gt;
-    &lt;p&gt; fioat → 浮點數&lt;/p&gt;
+    &lt;li&gt; print → 標準答案&lt;/li&gt;
+    &lt;li&gt; string → 字串&lt;/li&gt;
+    &lt;li&gt; integer → 整數&lt;/li&gt;
+    &lt;li&gt; fioat → 浮點數&lt;/li&gt;
    
 &lt;/section&gt;
 				
@@ -4577,11 +4565,11 @@ Diff...
 </t>
 <t tx="leo.20160115030121.1">&lt;section&gt;
 
-    &lt;p&gt;canvas → 需要設定 ID ，屬於 html (也就是超文件)，在後面設定畫佈大小。&lt;/p&gt;
-    &lt;p&gt;browser 模組中的 document, 並設為 doc 變數 → Brython特有的&lt;/p&gt;
-    &lt;p&gt;導入數學模組(import math)&lt;/p&gt;
-    &lt;p&gt;產生各小球的亂數速度用 (import random)→ 讓每一個小球初始速度是亂數&lt;/p&gt;
-    &lt;p&gt;導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。&lt;/p&gt;
+    &lt;li&gt;canvas → 需要設定 ID ，屬於 html (也就是超文件)，在後面設定畫佈大小。&lt;/li&gt;
+    &lt;li&gt;browser 模組中的 document, 並設為 doc 變數 → Brython特有的&lt;/li&gt;
+    &lt;li&gt;導入數學模組(import math)&lt;/li&gt;
+    &lt;li&gt;產生各小球的亂數速度用 (import random)→ 讓每一個小球初始速度是亂數&lt;/li&gt;
+    &lt;li&gt;導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。&lt;/li&gt;
 
 
 
@@ -4591,12 +4579,12 @@ Diff...
 </t>
 <t tx="leo.20160115031330.1">&lt;section&gt;
 
-    &lt;p&gt;取畫布的寬與高度 → 當作程式兩個變數&lt;/p&gt;
-    &lt;p&gt; n = 20 (球的數量)&lt;/p&gt;
-    &lt;p&gt;已知數列內容個數, 先分別與 None 對應 → 設定4個數列，分別要放20個球所對應的位置與速度。&lt;/p&gt;
-    &lt;p&gt;設定重力加速度, Y 方向向下為正&lt;/p&gt;
-    &lt;p&gt;設定空氣的黏滯阻尼係數&lt;/p&gt;
-    &lt;p&gt;設定球的彈力係數與半徑&lt;/p&gt;
+    &lt;li&gt;取畫布的寬與高度 → 當作程式兩個變數&lt;/li&gt;
+    &lt;li&gt; n = 20 (球的數量)&lt;/li&gt;
+    &lt;li&gt;已知數列內容個數, 先分別與 None 對應 → 設定4個數列，分別要放20個球所對應的位置與速度。&lt;/li&gt;
+    &lt;li&gt;設定重力加速度, Y 方向向下為正&lt;/li&gt;
+    &lt;li&gt;設定空氣的黏滯阻尼係數&lt;/li&gt;
+    &lt;li&gt;設定球的彈力係數與半徑&lt;/li&gt;
 
 
 
@@ -4606,14 +4594,14 @@ Diff...
 </t>
 <t tx="leo.20160115031927.1">&lt;section&gt;
  
-    &lt;p&gt;利用迴圈產生初始速度&lt;/p&gt;
-    &lt;p&gt;random.random() 將會產生介於 0 與 1 的浮點亂數 → 速度使用此方式設置&lt;/p&gt;
-    &lt;p&gt;透過更新第 i 球 Y 座標的運算邏輯 → 進行運算&lt;/p&gt;
-    &lt;p&gt;透過更新第 i 球 X 座標的運算邏輯 → 進行運算&lt;/p&gt;
-    &lt;p&gt;設定圓的程式&lt;/p&gt;
-    &lt;p&gt;每隔特定時間, 進行動畫繪製 → 依我們規定的暫留的特定時間做動畫繪製&lt;/p&gt;
-    &lt;p&gt;畫布點擊後執行的函式&lt;/p&gt;
-    &lt;p&gt;只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結 &lt;/p&gt;
+    &lt;li&gt;利用迴圈產生初始速度&lt;/li&gt;
+    &lt;li&gt;random.random() 將會產生介於 0 與 1 的浮點亂數 → 速度使用此方式設置&lt;/li&gt;
+    &lt;li&gt;透過更新第 i 球 Y 座標的運算邏輯 → 進行運算&lt;/li&gt;
+    &lt;li&gt;透過更新第 i 球 X 座標的運算邏輯 → 進行運算&lt;/li&gt;
+    &lt;li&gt;設定圓的程式&lt;/li&gt;
+    &lt;li&gt;每隔特定時間, 進行動畫繪製 → 依我們規定的暫留的特定時間做動畫繪製&lt;/li&gt;
+    &lt;li&gt;畫布點擊後執行的函式&lt;/li&gt;
+    &lt;li&gt;只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結 &lt;/li&gt;
 
 
 
