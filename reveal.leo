@@ -746,6 +746,16 @@
 <v t="leo.20160114231208.8"><vh>new:問題與討論</vh></v>
 </v>
 </v>
+<v t="leo.20160115100626.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160115100626.2"><vh>Recovered node "補充Python" from @clean W6.html</vh>
+<v t="leo.20160115100626.3"><vh>old:補充Python</vh></v>
+<v t="leo.20160115100626.4"><vh>new:補充Python</vh></v>
+</v>
+<v t="leo.20160115100626.5"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
+<v t="leo.20160115100626.6"><vh>old:問題與討論</vh></v>
+<v t="leo.20160115100626.7"><vh>new:問題與討論</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20150913232631.1"></t>
@@ -4328,7 +4338,7 @@ Diff...
        &lt;section&gt;
        &lt;p&gt;總和程式基本概念&lt;/p&gt;
        &lt;ul&gt;
--      &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+-      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
 ?                     ^
 +      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
 ?                     ^
@@ -4419,7 +4429,7 @@ Diff...
      &lt;section&gt;
      &lt;p&gt;總和程式基本概念&lt;/p&gt;
      &lt;ul&gt;
-     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
      &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
      &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
      &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
@@ -4441,7 +4451,7 @@ Diff...
       &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
       &lt;ul&gt;
       &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
--     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
 ?                                                     ^
 +     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
 ?                                                     ^
@@ -4470,7 +4480,7 @@ Diff...
     &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
-    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
     &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
     &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
     &lt;/ul&gt;
@@ -4606,6 +4616,188 @@ Diff...
 
 
    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115100626.1"></t>
+<t tx="leo.20160115100626.2">(uncached) leo.20151113182428.9
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;補充Python&lt;/h1&gt;
+      &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;重複迴圈
+      for : for i in range(5):
+                print(i)按run cell就會跑出
+                0
+                1
+                2
+                3
+                4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/section&gt;
+      
+      &lt;section&gt;
+      &lt;ul&gt;
+      &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+      &lt;li&gt;for i in range(2, 6):
+                  print(i)按run cell就會跑出
+                  2
+                  3
+                  4
+                  5&lt;/li&gt;
+       &lt;/section&gt;
+       
+       &lt;section&gt;
+       &lt;p&gt;總和程式基本概念&lt;/p&gt;
+       &lt;ul&gt;
+-      &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+?                     ^
++      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
+       &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+       &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+       &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+       &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+       &lt;li&gt;重複迴圈 for&lt;/li&gt;
+       &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;/section&gt;
+      
+     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160115100626.3">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115100626.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115100626.5">(uncached) leo.20151116192551.1
+Diff...
+  &lt;section&gt;
+  
+      &lt;h1&gt;問題與討論&lt;/h1&gt;
+      &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
++     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
+      &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+      &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+      &lt;/ul&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160115100626.6">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160115100626.7">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
 &lt;/section&gt;
 				
 </t>

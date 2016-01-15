@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>2015 計算機程式 第17週 &mdash; 2015FALL KMOL 課程</title>
+  <title>2016 計算機程式 第17週 &mdash; 2015FALL KMOL 課程</title>
   <meta name="author" content="KMOL">
 
 
@@ -47,13 +47,29 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">2015 計算機程式 第17週</h1>
+      <h1 class="entry-title">2016 計算機程式 第17週</h1>
     <p class="meta">
-<time datetime="2015-11-07T00:00:00+08:00" pubdate>週六 07 十一月 2015</time>    </p>
+<time datetime="2016-01-09T00:00:00+08:00" pubdate>週六 09 一月 2016</time>    </p>
 </header>
 
   <div class="entry-content"><iframe src="W17.html" width="500" height="300"></iframe>
 
+<p>程式語言架構</p>
+<p>1.程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。          <br />
+ 2.以下圖示為利用Python來執行網頁的必要條件        <br />
+ <a href="http://imgur.com/MRowviB"><img src="http://i.imgur.com/MRowviB.jpg" title="source: imgur.com" /></a>    <br />
+ 3.canvas → 需要設定 ID ，屬於 html (也就是超文件)，在後面設定畫佈大小。  <br />
+ 4.browser 模組中的 document, 並設為 doc 變數 → Brython特有的  <br />
+5.導入數學模組(import math)         <br />
+6.產生各小球的亂數速度用 (import random)→ 讓每一個小球初始速度是亂數  <br />
+7.導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。     <br />
+8.利用迴圈產生初始速度      <br />
+9.random.random() 將會產生介於 0 與 1 的浮點亂數 → 速度使用此方式設置      <br />
+10.透過更新第 i 球 Y 座標的運算邏輯 → 進行運算         <br />
+11.透過更新第 i 球 X 座標的運算邏輯 → 進行運算         <br />
+12.設定圓的程式         <br />
+13.每隔特定時間, 進行動畫繪製 → 依我們14.畫布點擊後執行的函式      <br />
+15.只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結        </p>
 <!-- 導入 brython.js -->
 
 <script type="text/javascript" src="http://brython.info/src/brython_dist.js"></script>
@@ -172,7 +188,7 @@ canvas.bind('click', on_canvas_click, False)
         coursemdetw
     </span>
   </span>
-<time datetime="2015-11-07T00:00:00+08:00" pubdate>週六 07 十一月 2015</time>  <span class="categories">
+<time datetime="2016-01-09T00:00:00+08:00" pubdate>週六 09 一月 2016</time>  <span class="categories">
     <a class='category' href='./category/python.html'>Python</a>
   </span>
   <span class="categories">
@@ -191,19 +207,19 @@ canvas.bind('click', on_canvas_click, False)
     <h1>Recent Posts</h1>
     <ul id="recent_posts">
       <li class="post">
-          <a href="./2015cp_hw_w10.html">2015 計算機程式 第10週</a>
+          <a href="./2015cp_hw_w17.html">2016 計算機程式 第17週</a>
       </li>
       <li class="post">
-          <a href="./2015cp_hw_w11.html">2015 計算機程式 第11週</a>
+          <a href="./2015cp_hw_w16.html">2016 計算機程式 第16週</a>
       </li>
       <li class="post">
-          <a href="./2015cp_hw_w12.html">2015 計算機程式 第12週</a>
-      </li>
-      <li class="post">
-          <a href="./2015cp_hw_w13.html">2015 計算機程式 第13週</a>
+          <a href="./2015cp_hw_w15.html">2015 計算機程式 第15週</a>
       </li>
       <li class="post">
           <a href="./2015cp_hw_w14.html">2015 計算機程式 14週</a>
+      </li>
+      <li class="post">
+          <a href="./2015cp_hw_w13.html">2015 計算機程式 第13週</a>
       </li>
     </ul>
   </section>
@@ -218,7 +234,7 @@ canvas.bind('click', on_canvas_click, False)
 
   <section>
   <h1>Tags</h1>
-    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/publishing.html">publishing</a>  </section>
+    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/pelican.html">pelican</a>  </section>
 
 
     <section>
@@ -239,7 +255,7 @@ canvas.bind('click', on_canvas_click, False)
 </aside>    </div>
   </div>
   <footer role="contentinfo"><p>
-    Copyright &copy;  2015  KMOL &mdash;
+    Copyright &copy;  2015&ndash;2016  KMOL &mdash;
   <span class="credit">Powered by <a href="http://getpelican.com">Pelican</a></span>
 </p></footer>
   <script src="./theme/js/modernizr-2.0.js"></script>
@@ -249,7 +265,7 @@ canvas.bind('click', on_canvas_click, False)
     var disqus_shortname = '2015fall';
     var disqus_identifier = '/2015cp_hw_w17.html';
     var disqus_url = './2015cp_hw_w17.html';
-    var disqus_title = '2015 計算機程式 第17週';
+    var disqus_title = '2016 計算機程式 第17週';
     (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = "//" + disqus_shortname + '.disqus.com/embed.js';
