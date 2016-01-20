@@ -317,7 +317,7 @@
 <v t="leo.20160108194856.10"><vh>程式語言</vh></v>
 <v t="leo.20160115025826.1"><vh>程式語言</vh></v>
 <v t="leo.20160115030121.1"><vh>程式語言</vh></v>
-<v t="leo.20160115031330.1" a="M"><vh>程式語言</vh></v>
+<v t="leo.20160119225512.1"><vh>程式語言</vh></v>
 <v t="leo.20160115031927.1"><vh>程式語言</vh></v>
 <v t="leo.20160108194856.12"><vh>心得感想</vh></v>
 <v t="leo.20160108194856.13"><vh>自評成績</vh></v>
@@ -754,6 +754,36 @@
 <v t="leo.20160115100626.5"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
 <v t="leo.20160115100626.6"><vh>old:問題與討論</vh></v>
 <v t="leo.20160115100626.7"><vh>new:問題與討論</vh></v>
+</v>
+</v>
+<v t="leo.20160119221129.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160119221129.2"><vh>Recovered node "補充Python" from @clean W6.html</vh>
+<v t="leo.20160119221129.3"><vh>old:補充Python</vh></v>
+<v t="leo.20160119221129.4"><vh>new:補充Python</vh></v>
+</v>
+<v t="leo.20160119221129.5"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
+<v t="leo.20160119221129.6"><vh>old:問題與討論</vh></v>
+<v t="leo.20160119221129.7"><vh>new:問題與討論</vh></v>
+</v>
+</v>
+<v t="leo.20160120221144.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160120221144.2"><vh>Recovered node "補充Python" from @clean W6.html</vh>
+<v t="leo.20160120221144.3"><vh>old:補充Python</vh></v>
+<v t="leo.20160120221144.4"><vh>new:補充Python</vh></v>
+</v>
+<v t="leo.20160120221144.5"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
+<v t="leo.20160120221144.6"><vh>old:問題與討論</vh></v>
+<v t="leo.20160120221144.7"><vh>new:問題與討論</vh></v>
+</v>
+</v>
+<v t="leo.20160120225048.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160120225048.2"><vh>Recovered node "補充Python" from @clean W6.html</vh>
+<v t="leo.20160120225048.3"><vh>old:補充Python</vh></v>
+<v t="leo.20160120225048.4"><vh>new:補充Python</vh></v>
+</v>
+<v t="leo.20160120225048.5"><vh>Recovered node "問題與討論" from @clean W6.html</vh>
+<v t="leo.20160120225048.6"><vh>old:問題與討論</vh></v>
+<v t="leo.20160120225048.7"><vh>new:問題與討論</vh></v>
 </v>
 </v>
 </vnodes>
@@ -3276,12 +3306,8 @@ Diff...
 
 </t>
 <t tx="leo.20160108194856.10">&lt;section&gt;
-
     &lt;h1&gt;程式語言架構&lt;/h1&gt;
-    &lt;li&gt;程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。&lt;/li&gt;
-
-
-   
+    &lt;li&gt;程式網頁 → 直接呼叫在網路上的 javascript ， Brython 其實是透過 javascript ，讓我們可以寫 Python 格式，與許此程式在網路上執行。&lt;/li&gt;   
 &lt;/section&gt;
 				
 </t>
@@ -3293,7 +3319,7 @@ Diff...
 </t>
 <t tx="leo.20160108194856.13">&lt;section&gt;
     &lt;h1&gt;自評成績&lt;/h1&gt;
-    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，單是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
+    &lt;p&gt;最後一週作業了 ，雖然沒有做得很好，也沒有做到自己的期望值，但是我相信，之後再努力一點一定可以達成。&lt;/p&gt;
     &lt;p&gt;期中作業給自己的分數:75分&lt;/p&gt;
 &lt;/section&gt;
 				
@@ -3346,11 +3372,9 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;第17週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
-    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;    	
 &lt;/section&gt;
 	
 </t>
@@ -3358,7 +3382,6 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;執行動態模擬&lt;/p&gt;
     &lt;ul&gt;
@@ -3366,8 +3389,7 @@ Diff...
     &lt;li&gt;程式語言&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
+    &lt;/ul&gt;    			
 &lt;/section&gt;
 	
 </t>
@@ -3436,12 +3458,9 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;第14週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
-    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-  
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt; 
 &lt;/section&gt;
 	
 </t>
@@ -3449,14 +3468,12 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;畫圖&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
+    &lt;/ul&gt;   			
 &lt;/section&gt;
 	
 </t>
@@ -3524,13 +3541,10 @@ Diff...
 <t tx="leo.20160108194859.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-
+&lt;section&gt; 
     &lt;h1&gt;第13週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
-    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-
-    
+    &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;  
 &lt;/section&gt;
 	
 </t>
@@ -3538,14 +3552,12 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;抽人與猜顏色&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
+    &lt;/ul&gt;   			
 &lt;/section&gt;
 	
 </t>
@@ -3615,12 +3627,9 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;第12週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-    	
-
 &lt;/section&gt;
 	
 </t>
@@ -3628,20 +3637,17 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;內容大綱&lt;/h1&gt;
     &lt;p&gt;猜數字遊戲&lt;/p&gt;
     &lt;ul&gt;
     &lt;li&gt;程式碼介紹&lt;/li&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
+    &lt;/ul&gt;   			
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20160108194901.9">&lt;section&gt;
-
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
     &lt;p&gt; #coding: utf-8 &lt;/p&gt;
     &lt;li&gt;1. # → 單行註解 &lt;/li&gt;
@@ -3650,8 +3656,6 @@ Diff...
     &lt;p&gt; import random &lt;/p&gt;
     &lt;li&gt;1. import → 輸入導入&lt;/li&gt;
     &lt;li&gt;2. random→ 亂數&lt;/li&gt;
-    
-   
 &lt;/section&gt;
 				
 </t>
@@ -3661,7 +3665,6 @@ Diff...
 
 </t>
 <t tx="leo.20160108194902.10">&lt;section&gt;
-
     &lt;h1&gt;如何修正 fix?&lt;/h1&gt;
     &lt;li&gt;1.先到老師的教學網站&lt;/li&gt;
     &lt;li&gt;2.點選 2015Fall 課程 &lt;/li&gt;
@@ -3670,8 +3673,7 @@ Diff...
     &lt;li&gt;5.上網搜尋 leo editor github&lt;/li&gt;
     &lt;li&gt;6.點選 leo-editor Github&lt;/li&gt;
     &lt;li&gt;7.點選leo-editor&lt;/li&gt;
-    &lt;li&gt;8.點選release&lt;/li&gt;
-   
+    &lt;li&gt;8.點選release&lt;/li&gt;   
 &lt;/section&gt;
 				
 </t>
@@ -3740,7 +3742,6 @@ Diff...
     &lt;h1&gt;第11週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Yan Syuan&lt;/p&gt;
-
     	
 &lt;/section&gt;
 	
@@ -3826,8 +3827,7 @@ Diff...
 
     &lt;h1&gt;運動會&lt;/h1&gt;
     
-  &lt;/section&gt;
-    	
+  &lt;/section&gt;   	
 &lt;/section&gt;
 	
 </t>
@@ -3906,8 +3906,7 @@ Diff...
 
     &lt;h1&gt;期中考加油&lt;/h1&gt;
     
-  &lt;/section&gt;
-    	
+  &lt;/section&gt;  	
 &lt;/section&gt;
 	
 </t>
@@ -4150,8 +4149,7 @@ Diff...
 
 </t>
 <t tx="leo.20160108234017.12">&lt;section&gt;
-    &lt;h1&gt;1/1日元旦放假&lt;/h1&gt;
-   
+    &lt;h1&gt;1/1日元旦放假&lt;/h1&gt;   
 &lt;/section&gt;
 				
 </t>
@@ -4288,7 +4286,6 @@ Diff...
     &lt;h1&gt;第15週&lt;/h1&gt;
     &lt;p&gt;學號:40423104&lt;/p&gt;
     &lt;p&gt;姓名:Syuan&lt;/p&gt;
-
 &lt;/section&gt;
 	
 </t>
@@ -4296,12 +4293,11 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-
     &lt;h1&gt;內容大綱&lt;/h1&gt;
+    &lt;ul&gt;
     &lt;li&gt;心得感想&lt;/li&gt;
     &lt;li&gt;自評成績&lt;/li&gt;
-    &lt;/ul&gt;
-    			
+    &lt;/ul&gt;   			
 &lt;/section&gt;
 	
 </t>
@@ -4488,32 +4484,26 @@ Diff...
 				
 </t>
 <t tx="leo.20160114235142.1">&lt;section&gt;
-
-
     &lt;li&gt;9.點選 broke-abbrev&lt;/li&gt;
     &lt;li&gt;10.下載 Source code(zip) &lt;/li&gt;
     &lt;li&gt;11.將leo-editor-broke-abbrev.zip檔放入 Fix 資料夾中&lt;/li&gt;
     &lt;li&gt;12.到 Ana3_2015\data\SciTE 中開啟 SciTe&lt;/li&gt;
     &lt;li&gt;13.使用 SciTe 開啟 fix.bat&lt;/li&gt;
     &lt;li&gt;14.加入指令 copy copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\&lt;/li&gt;
-    &lt;li&gt;15.儲存檔案 (Save)&lt;/li&gt;
-   
+    &lt;li&gt;15.儲存檔案 (Save)&lt;/li&gt;  
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20160114235717.1">&lt;section&gt;
-
     &lt;li&gt;16.使用 SciTe 開啟 start.bat&lt;/li&gt;
     &lt;li&gt;17.在第35行 pip install 後改成 leo-editor-broke-abbrev.zip &lt;/li&gt;
     &lt;li&gt;18.儲存檔案 (Save)&lt;/li&gt;
     &lt;li&gt;19.開啟 fix.bat&lt;/li&gt;
     &lt;li&gt;20.開啟start.bat&lt;/li&gt;
     &lt;li&gt;21.輸入 leo (可自訂)&lt;/li&gt;
-    &lt;p&gt;就修正完成囉&lt;/p&gt;
-   
+    &lt;p&gt;就修正完成囉&lt;/p&gt;   
 &lt;/section&gt;</t>
 <t tx="leo.20160115005344.1">&lt;section&gt;
-
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
     &lt;p&gt; 標準答案 = random.randint(1, 100) &lt;/p&gt;
     &lt;li&gt;1. randint → 產生整數&lt;/li&gt;
@@ -4523,87 +4513,52 @@ Diff...
     &lt;li&gt;5.‧→ 呼叫它的方法
     &lt;p&gt; 你猜的數字 = int(input("請輸入您所猜的整數:")) &lt;/p&gt;
     &lt;li&gt;把input後面所得的字串顯示成整數&lt;/li&gt;
-    &lt;li&gt;input → 函式r&lt;/li&gt;
-    
-   
+    &lt;li&gt;input → 函式r&lt;/li&gt; 
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115011401.1">&lt;section&gt;
-
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
     &lt;p&gt; while 標準答案 != 你猜的數字: &lt;/p&gt;
     &lt;li&gt;1. while → 迴圈&lt;/li&gt;
     &lt;li&gt;2. != → 不等於也是否定的意思&lt;/li&gt;
     &lt;p&gt; if 標準答案 &lt; 你猜的數字: &lt;/p&gt;
-    &lt;li&gt;1. if (前面要縮排，空白鍵*4)→ 符合定義，然後執行&lt;/li&gt;
-    
-   
+    &lt;li&gt;1. if (前面要縮排，空白鍵*4)→ 符合定義，然後執行&lt;/li&gt;  
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115012449.1">&lt;section&gt;
-
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
     &lt;li&gt; print → 標準答案&lt;/li&gt;
     &lt;li&gt; string → 字串&lt;/li&gt;
     &lt;li&gt; integer → 整數&lt;/li&gt;
     &lt;li&gt; fioat → 浮點數&lt;/li&gt;
-   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115012648.1">&lt;section&gt;
-
     &lt;h1&gt;程式碼介紹&lt;/h1&gt;
     &lt;p&gt; else  → 執行後面指令&lt;/p&gt;
-    &lt;p&gt; 猜測次數 += 1 → 等於猜測次數+1&lt;/p&gt;
-    
-   
+    &lt;p&gt; 猜測次數 += 1 → 等於猜測次數+1&lt;/p&gt; 
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115025826.1">&lt;section&gt;
-
     &lt;p&gt;以下圖示為利用Python來執行網頁的必要條件&lt;p&gt;
-    &lt;p&gt;&lt;a href="http://imgur.com/MRowviB"&gt;&lt;img src="http://i.imgur.com/MRowviB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-   
+    &lt;p&gt;&lt;a href="http://imgur.com/MRowviB"&gt;&lt;img src="http://i.imgur.com/MRowviB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;  
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115030121.1">&lt;section&gt;
-
     &lt;li&gt;canvas → 需要設定 ID ，屬於 html (也就是超文件)，在後面設定畫佈大小。&lt;/li&gt;
     &lt;li&gt;browser 模組中的 document, 並設為 doc 變數 → Brython特有的&lt;/li&gt;
     &lt;li&gt;導入數學模組(import math)&lt;/li&gt;
     &lt;li&gt;產生各小球的亂數速度用 (import random)→ 讓每一個小球初始速度是亂數&lt;/li&gt;
-    &lt;li&gt;導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。&lt;/li&gt;
-
-
-
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20160115031330.1">&lt;section&gt;
-
-    &lt;li&gt;取畫布的寬與高度 → 當作程式兩個變數&lt;/li&gt;
-    &lt;li&gt; n = 20 (球的數量)&lt;/li&gt;
-    &lt;li&gt;已知數列內容個數, 先分別與 None 對應 → 設定4個數列，分別要放20個球所對應的位置與速度。&lt;/li&gt;
-    &lt;li&gt;設定重力加速度, Y 方向向下為正&lt;/li&gt;
-    &lt;li&gt;設定空氣的黏滯阻尼係數&lt;/li&gt;
-    &lt;li&gt;設定球的彈力係數與半徑&lt;/li&gt;
-
-
-
-   
+    &lt;li&gt;導入 browser 中的計時器, 建立動畫用(import browser.timer) → 每隔一個時間，要重新刷新螢幕。&lt;/li&gt;   
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20160115031927.1">&lt;section&gt;
- 
     &lt;li&gt;利用迴圈產生初始速度&lt;/li&gt;
     &lt;li&gt;random.random() 將會產生介於 0 與 1 的浮點亂數 → 速度使用此方式設置&lt;/li&gt;
     &lt;li&gt;透過更新第 i 球 Y 座標的運算邏輯 → 進行運算&lt;/li&gt;
@@ -4611,11 +4566,7 @@ Diff...
     &lt;li&gt;設定圓的程式&lt;/li&gt;
     &lt;li&gt;每隔特定時間, 進行動畫繪製 → 依我們規定的暫留的特定時間做動畫繪製&lt;/li&gt;
     &lt;li&gt;畫布點擊後執行的函式&lt;/li&gt;
-    &lt;li&gt;只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結 &lt;/li&gt;
-
-
-
-   
+    &lt;li&gt;只要使用者點擊在畫布上任何地方, 即執行 on_canvas_click 函式 → bind為連結 &lt;/li&gt;   
 &lt;/section&gt;
 				
 </t>
@@ -4652,7 +4603,7 @@ Diff...
        &lt;section&gt;
        &lt;p&gt;總和程式基本概念&lt;/p&gt;
        &lt;ul&gt;
--      &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+-      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
 ?                     ^
 +      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
 ?                     ^
@@ -4743,7 +4694,7 @@ Diff...
      &lt;section&gt;
      &lt;p&gt;總和程式基本概念&lt;/p&gt;
      &lt;ul&gt;
-     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
      &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
      &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
      &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
@@ -4765,7 +4716,7 @@ Diff...
       &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
       &lt;ul&gt;
       &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
--     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
 ?                                                     ^
 +     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
 ?                                                     ^
@@ -4789,6 +4740,562 @@ Diff...
 				
 </t>
 <t tx="leo.20160115100626.7">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119221129.1"></t>
+<t tx="leo.20160119221129.2">(uncached) leo.20151113182428.9
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;補充Python&lt;/h1&gt;
+      &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;重複迴圈
+      for : for i in range(5):
+                print(i)按run cell就會跑出
+                0
+                1
+                2
+                3
+                4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/section&gt;
+      
+      &lt;section&gt;
+      &lt;ul&gt;
+      &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+      &lt;li&gt;for i in range(2, 6):
+                  print(i)按run cell就會跑出
+                  2
+                  3
+                  4
+                  5&lt;/li&gt;
+       &lt;/section&gt;
+       
+       &lt;section&gt;
+       &lt;p&gt;總和程式基本概念&lt;/p&gt;
+       &lt;ul&gt;
+-      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
++      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
+       &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+       &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+       &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+       &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+       &lt;li&gt;重複迴圈 for&lt;/li&gt;
+       &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;/section&gt;
+      
+     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160119221129.3">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119221129.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119221129.5">(uncached) leo.20151116192551.1
+Diff...
+  &lt;section&gt;
+  
+      &lt;h1&gt;問題與討論&lt;/h1&gt;
+      &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
++     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
+      &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+      &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+      &lt;/ul&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160119221129.6">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119221129.7">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160119225512.1">&lt;section&gt;
+    &lt;li&gt;取畫布的寬與高度 → 當作程式兩個變數&lt;/li&gt;
+    &lt;li&gt; n = 20 (球的數量)&lt;/li&gt;
+    &lt;li&gt;已知數列內容個數, 先分別與 None 對應 → 設定4個數列，分別要放20個球所對應的位置與速度。&lt;/li&gt;
+    &lt;li&gt;設定重力加速度, Y 方向向下為正&lt;/li&gt;
+    &lt;li&gt;設定空氣的黏滯阻尼係數&lt;/li&gt;
+    &lt;li&gt;設定球的彈力係數與半徑&lt;/li&gt;  
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120221144.1"></t>
+<t tx="leo.20160120221144.2">(uncached) leo.20151113182428.9
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;補充Python&lt;/h1&gt;
+      &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;重複迴圈
+      for : for i in range(5):
+                print(i)按run cell就會跑出
+                0
+                1
+                2
+                3
+                4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/section&gt;
+      
+      &lt;section&gt;
+      &lt;ul&gt;
+      &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+      &lt;li&gt;for i in range(2, 6):
+                  print(i)按run cell就會跑出
+                  2
+                  3
+                  4
+                  5&lt;/li&gt;
+       &lt;/section&gt;
+       
+       &lt;section&gt;
+       &lt;p&gt;總和程式基本概念&lt;/p&gt;
+       &lt;ul&gt;
+-      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
++      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
+       &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+       &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+       &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+       &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+       &lt;li&gt;重複迴圈 for&lt;/li&gt;
+       &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;/section&gt;
+      
+     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160120221144.3">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120221144.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120221144.5">(uncached) leo.20151116192551.1
+Diff...
+  &lt;section&gt;
+  
+      &lt;h1&gt;問題與討論&lt;/h1&gt;
+      &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
++     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
+      &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+      &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+      &lt;/ul&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160120221144.6">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120221144.7">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120225048.1"></t>
+<t tx="leo.20160120225048.2">(uncached) leo.20151113182428.9
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;補充Python&lt;/h1&gt;
+      &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;重複迴圈
+      for : for i in range(5):
+                print(i)按run cell就會跑出
+                0
+                1
+                2
+                3
+                4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/section&gt;
+      
+      &lt;section&gt;
+      &lt;ul&gt;
+      &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+      &lt;li&gt;for i in range(2, 6):
+                  print(i)按run cell就會跑出
+                  2
+                  3
+                  4
+                  5&lt;/li&gt;
+       &lt;/section&gt;
+       
+       &lt;section&gt;
+       &lt;p&gt;總和程式基本概念&lt;/p&gt;
+       &lt;ul&gt;
+-      &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+?                     ^
++      &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+?                     ^
+       &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+       &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+       &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+       &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+       &lt;li&gt;重複迴圈 for&lt;/li&gt;
+       &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+       &lt;/ul&gt;
+       &lt;/section&gt;
+      
+     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160120225048.3">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則 、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120225048.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;補充Python&lt;/h1&gt;
+    &lt;p&gt;有關Python的For迴圈&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;重複迴圈
+    for : for i in range(5):
+              print(i)按run cell就會跑出
+              0
+              1
+              2
+              3
+              4&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;ul&gt;
+    &lt;p&gt;限制迴圈範圍&lt;/p&gt;
+    &lt;li&gt;for i in range(2, 6):
+                print(i)按run cell就會跑出
+                2
+                3
+                4
+                5&lt;/li&gt;
+     &lt;/section&gt;
+     
+     &lt;section&gt;
+     &lt;p&gt;總和程式基本概念&lt;/p&gt;
+     &lt;ul&gt;
+     &lt;li&gt;資料呈現 : 命名規則、保留關鍵字&lt;/li&gt;
+     &lt;li&gt;資料呈現 : print()→整數、浮點數、字串&lt;/li&gt;
+     &lt;li&gt;數列 (list) - [1, 2, 3] [1, 2, 3, [1, 2, [1, 2, 3] ] ]&lt;/li&gt;
+     &lt;li&gt;元組 (tuple) - (1, 2, 3)&lt;/li&gt;
+     &lt;li&gt;字典 (dictionary) - {"a": 1, "b": 2}&lt;/li&gt;
+     &lt;li&gt;重複迴圈 for&lt;/li&gt;
+     &lt;li&gt;邏輯判斷 if, while&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;/section&gt;
+    
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120225048.5">(uncached) leo.20151116192551.1
+Diff...
+  &lt;section&gt;
+  
+      &lt;h1&gt;問題與討論&lt;/h1&gt;
+      &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+-     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
++     &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+?                                                     ^
+      &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+      &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+      &lt;/ul&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="leo.20160120225048.6">&lt;section&gt;
+
+    &lt;h1&gt;問題與討論&lt;/h1&gt;
+    &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;下載camstudio時，或一些軟體時，會下載到一些不明軟體，造成開網頁時，會有很多廣告出現。所以在下在時，資料記得要做過塞選，或使用cmd打入netstat -no的指令，可以看到目前在運作的資料&lt;/li&gt;
+    &lt;li&gt;因為開啟不明的檔案，可能造成leo編輯器開補起來。例如:我下載老師的reveal2的檔案 ，打開leo檔，因為檔案已經壞了，導致我的leo當掉，在強制關閉後，再重開leo，就打開了。&lt;/li&gt;
+    &lt;li&gt;為什麼我們在電腦教室使用的電腦有時候會ㄅㄧㄅㄧ叫呢?因為在開啟電腦時，主機板 FLASH RAM 或 EPROM 錯誤（ BIOS 損壞），這是一部份原因，網路上有許多原因，可以上網查詢。&lt;/li&gt;
+    &lt;p&gt;這是我個人比較常遇到的問題喔~。&lt;/p&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160120225048.7">&lt;section&gt;
 
     &lt;h1&gt;問題與討論&lt;/h1&gt;
     &lt;p&gt;在上完課後遇到許多問題&lt;/p&gt;
